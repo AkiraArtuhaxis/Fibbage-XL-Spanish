@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Policía Perruno,Policía Porcino,Trabajo Durruno,Guaukowski, oficial perruno,Golden Revolver,Canino Uno Uno,Cachorro de pie plano,Crímenes Caninos,Vice Lobo,Doggy PD,Sargento Snoop,Canino Azul,Gran Perro,Pequña Ciudad,Escuadrón Perruno,Mira Quién No Está Ladrando,¡Guau!,Ese no es Bull(Dog)",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bulldog",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Poochinski",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1990, antes de \"Todos quieren a Raymond\", el actor Peter Boyle protagonizó un piloto de televisión fallido llamado <BLANK> sobre un policía que se convierte en un bulldog parlante.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338346_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

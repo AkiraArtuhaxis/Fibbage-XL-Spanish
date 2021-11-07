@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "orinando,borracho,comiendo,haciendo el amor,bailando,amamantando,sudando,confundido,conduciendo,duchando,cantando el himno nacional,cocinando,ovulando,entreteniendo,haciendo caca,vacacionando,pensando,nadando",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pelo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "durmiendo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Aviso real en el secador de pelo Vidal Sassoon: “No lo use mientras esté <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dormido,adormecido",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330574_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

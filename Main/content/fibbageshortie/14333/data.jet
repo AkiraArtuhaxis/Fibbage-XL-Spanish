@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cacapp,Pipí-fono,Amigo del bebé,Verificación Húmeda,Libro Pañalezco,Mi Pañal,Alerta de Orina,PipíAmigo,Problema de Orina,Huggies con amigos,Código Amarillo,Pañal lleno de amor,Hola Amarillo,Caca App,Cambiá a tu bebé,Abrazitos,¡Waaaaaaah!",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Huggies",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "TweetPee",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Huggies Brasil desarrolló una aplicación de teléfono que te indica cuándo se moja el pañal de un bebé. Se llama <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tweet pee,tuit pipí,TuitPipí,TuitPipi",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318627_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

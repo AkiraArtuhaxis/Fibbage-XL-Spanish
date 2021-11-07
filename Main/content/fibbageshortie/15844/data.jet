@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el vodka,La medicina,Quejarse,jugar videojuegos,Twitter,posar desnuda,mirar nubes,un margarita,tomarse siestas,el tocino,ir de fiesta,ir de compras,Matchbox Twenty,el oxígeno,el ciclismo,un cereal Trix,tararear,no dormir",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Lohan",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "trabajar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡TUIT DE CELEBRIDAD! 4:32 PM - 22 de mayo de 2012 @lindsaylohan tuiteó: “<BLANK> es la mejor medicina”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el trabajo,hacer trabajo,ir al trabajo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "350573_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350570_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

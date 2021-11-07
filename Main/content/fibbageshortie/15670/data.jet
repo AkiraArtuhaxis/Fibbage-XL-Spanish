@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tachuelas,huevos podridos,leche materna,pudín,ladrillos,dulces,carbones calientes,dientes de perro,dagas,uvas,dados,diamantes,fuegos artificiales,monedas de oro,uñas cortadas,huesos de pollo,pañales,vidrios rotos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "trapos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hormigas rojas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando estés en Laza, España, asegúrate de visitar el festival anual en el que los participantes se arrojan trapos con barro llenos de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hormigas de fuego",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "346694_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "346691_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "triciclo,cerdo,carrito de golf,bicicleta tándem,carrito de compras,patineta,vaca,carretilla,scooter,trineo,hoverboard,excavadora,camello,perro grande,camión de basura,kart,globo aerostático",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "DUI",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cortacésped",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre de Pennsylvania occidental consiguió un DUI por tener una lata de cerveza abierta mientras montaba un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cortadora de pasto,cortadora de césped",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318425_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

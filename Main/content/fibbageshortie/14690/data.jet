@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "caviar,lágrimas de cocodrilo,excremento humano,mayonesa,saliva de zorro,oro fundido,esperma de elefante,toxina botulínica,piel de tritón,petróleo,vómito,moco de castor,Freón,polvo de hadas,manteca de cerdo,mostaza,cola de mofeta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "facial",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caca de pájaro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por $180, el salón de cuidado de la piel Shizuka de Nueva York ofrece un tratamiento facial japonés inusual pero tradicional que es en parte salvado de arroz y en parte <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "excrementos de pájaro,mierda de pájaro,caquita de pájaro,excremento de pájaro,caca de pajaro,excrementos de pajaro,mierda de pajaro,caquitoa de pajaro,excremento de pajaro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "325910_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "325907_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Almohadas,Besos,Silencio,Gritos,Gatitos,Masajes,Bañeras Calientes,Insultos,Masturbación,Banjos,Golpes,Pinturas,Kickboxing,Robert Downey Jr.,Siestas,Jogging,Conejos,Club de lucha",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "estrés",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Perritos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como una forma de aliviar el estrés para sus estudiantes, la Universidad de Dalhousie en 2012 introdujo una sala de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Caricias de perritos,perro,Acurrucarse con perritos,Terapia con perritos,Terapia perruna",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "324794_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "324791_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cabra,sexo,amante,vodka,silla,niño,carrito,esposa,baño,canto,fumar,comprar cosas,cama,biblioteca,peluca,violín,pañuelo,bailarín",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Peter",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "barba",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Bajo Pedro el Grande, los nobles tuvieron que pagar 100 rublos al año por una licencia de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vello facial,barbas, una barba",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "317359_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

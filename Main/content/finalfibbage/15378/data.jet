@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Orgía,Diversionopoly,Fiesta de Pies,Tócame Gentilmente,Charco de Abrazos,Contorciones Locas,Rompehielos,Swingers,Fiesta de Llaves,Gomas,Nudos,Telaraña Enredada,Holis,Masa de Humanidad,Tocador,B.O.,Amigo para Acurrucarse,Testis Doblables",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "juego",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pretzel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando Milton Bradley adquirió los derechos por primera vez, el juego Twister se llamaba así.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339979_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

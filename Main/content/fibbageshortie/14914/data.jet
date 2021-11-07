@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nieve,Amanda,Pequeño,Ángel,Navidad,Holandés,Malvado,Acción,Judío,Caca,Monstruo,Borracho,Pito,Cosquilloso,Desnudo,Feo,Extraño,Al Revés",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Santa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Negro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La versión holandesa de Santa Claus tiene un ayudante llamado el Pedrito <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330321_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

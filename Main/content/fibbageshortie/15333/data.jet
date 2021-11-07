@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "reportero,bebé,stripper,madre embarazada,maestra de escuela,hombre sordo,alcalde,trabajador social,estatua religiosa,paloma,tumba,foto del Papa,niño,persona ciega,pieza de museo,pintura de Van Gogh,conejo,albañil",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vino",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vagabundo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Peter Gloystein, un político alemán, renunció en 2005 después de verter vino en un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vago,persona sin hogar,tipo sin hogar,mujer sin hogar,alguien sin hogar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338944_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

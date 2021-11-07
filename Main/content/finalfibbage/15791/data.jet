@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Seguro,Amistoso,Totalmente Entrenado,Final Feliz,No-Aterrador,No-Te-Matará,Profesional,Paleta,Dentista,Ganador de Premios,Sin Miedo,Genio,Calmante,Mejor Dentista,Dientito,Gratis,Calmo,Manos Amistosas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "dental",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sin Dolor",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A lo que el Dr. Edgar Parker cambió legalmente su nombre de pila (traducido) para ayudar a su práctica dental.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sindolor",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "349410_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "349407_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

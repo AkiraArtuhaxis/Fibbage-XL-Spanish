@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "alardeo,balada,cumplido,pantalón serpiente,montaña rusa,401k,nugget de pollo,camiseta que me quede,almohadón,feo,cuerda elástica,mercado de pulgas,sentimiento,trompeta,YOLO,papa frita,traje,enfriador de vino",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Cowell",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "baby shower",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡TUIT DE CELEBRIDAD! 12:44 a.m. - 10 de diciembre de 2013 @SimonCowell tuiteó: “Todavía no estoy seguro de qué es un/a <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350547_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

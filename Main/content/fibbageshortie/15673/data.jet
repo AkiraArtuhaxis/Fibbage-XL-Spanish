@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el sótano de tu mamá,el patio,un suéter que pica,el espacio,Madrid,la bañera,el paraíso,mi corazón,Berlín,tus sueños,el Año Nuevo,la sala de juntas,un callejón,mi asiento de atrás,el desnudo,la cama,tu bigote,la cordura",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Eddie Murphy",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tu trasero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El actor Eddie Murphy lanzó una canción de baile en 1982 titulada “Boogie en <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "346782_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

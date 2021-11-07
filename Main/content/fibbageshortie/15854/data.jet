@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "burros,ego,debiluchos,liberales,payasos,canguros,tetas,caca,imbéciles,bolas de sordidez,zombis,socialistas,payasos,mierda,asnos,tontos,alcohol,falsos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Patton",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "carne",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El actor de <i>Patton<\/i> George C. Scott se negó a aceptar el Óscar que ganó en 1971, alegando que los Premios de la Academia son un “desfile de <BLANK> de dos horas”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "350792_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350789_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

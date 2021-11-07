@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mueras,tengas pánico,escribas,llores,pares,leas,hables,hagas ejercicio,jodas,continúes,bebas,te arrepientas,te muevas,dejes flores,me vandalicen,te cases,seas,fumes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Charles Bukowski",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lo intentes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La tumba del famoso poeta estadounidense Charles Bukowski está grabada con las palabras \"No <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318604_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

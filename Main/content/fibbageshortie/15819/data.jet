@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cortarse las uñas,decir “bro”,comer papel higiénico,reir,hacer álbumes de recortes,lamer sapos,tirar de su cabello,escupir,mostrar melodías,la topiaria,aspirar,el baile moderno,las muñecas de porcelana,el salto en saco,hacer parkour,los cuartetos de barbero,las pelucas de payaso,tocar el bajo slap",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Sueco",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la música de heavy metal",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un sueco que trabaja como lavaplatos recibe beneficios por discapacidad debido a su inusual adicción a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "heavy metal,bandas de metal,bandas de heavy metal,musica de heavy metal,música de metal pesado,musica de metal pesado,metal pesado,bandas de metal pesado,el heavy metal,las bandas de metal,las bandas de heavy metal,la musica de heavy metal,la música de metal pesado,la musica de metal pesado,el metal pesado,las bandas de metal pesado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350017_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

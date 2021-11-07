@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mazo,cráneo humano,katana,barra de dinamita,bola de boliche,soplete,grúa,escopeta,bloque de cemento,camioneta,motosierra,serpiente pitón,bulldozer,pistola de clavos,computadora,granada,compañero de trabajo,palanca",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Twix",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "montacargas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en Milford, Iowa, fue despedido de su trabajo después de usar un/a <BLANK> para sacar su barra Twix de la máquina expendedora de la oficina.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "monta cargas,carretilla elevadora",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "346823_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

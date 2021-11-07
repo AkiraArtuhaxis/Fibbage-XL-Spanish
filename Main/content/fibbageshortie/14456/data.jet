@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ka-blam,Shizzle,Eh,Bong,Bam,Flap,Nip,Flurb,Wham,Guau,Tonto,Slam,Snap, Sr.,Barf,Whip,Jack,Yoink,Rugido",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Mascotas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pow",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Hubo una vez un cuarto miembro de las mascotas de Rice Krispies de Kellogg's. Originalmente era Snap, Crackle, Pop y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "321176_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

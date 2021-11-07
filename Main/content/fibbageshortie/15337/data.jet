@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "librería,Pizza Hut,restaurante de pizza,puesto de perritos calientes,museo,cabina de peaje,metro,estación de bomberos,puente,hotel,casa de baños turcos,McDonald's,bar,carruaje de caballos,puesto de noticias,máquina expendedora,fuente,bodega",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Einstein",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caja de seguridad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Curiosamente, los ojos de Albert Einstein se pueden encontrar en un/a <BLANK> en la ciudad de Nueva York.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "caja de depósito,caja fuerte",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "339039_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339036_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

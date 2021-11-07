@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mascotículos,Bolas de Mancha No puedo Creerlo,Sacos Tristes,Vas Dobermans,Nonads,Bow Wowz,Mejores Testis,Colgadoz,Bolas de Pelo,Compañeros para Acurrucarse,Los mejores testículos del hombre,Testículos casi reales,PetSets,Nads Radicales,Pelotas Bestiales,CuelganAbajo,BolasDePelo,Reunión de Pelotas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sintético",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Netículas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Marca de los testículos sintéticos (patentados) para mascotas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "351010_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "351007_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "par de niños en un abrigo,montón de jerbos pegados,caballo con pelo largo,león americano,alfombra peluda,escultua de hielo,vaca en un vestido,proyección de video,docena de gatos pegados,espantapájaros,cerdo muerto,espejo,figura de cartón,saco de arpillería pintado,hombre con pijamas amarillos,gato bajo una lupa,mujer rubia grande,perchero de pieles",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "león",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "perro grande",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, un zoológico en China intentó hacer pasar un/a <BLANK> como un león africano.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "perro,perrito,perro gigante,gran perro,perro gigantesco,grande perro,gigante perro,gigantesco perro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "350191_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350188_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "madre,auto,perro,apodo,guitarra,castillo,pene,hijo adoptado,gato,secretaria,bote,peluca,nombre escénico,amante,granja,lugar de muerte,seudónimo,peor miedo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Snickers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caballo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La barra de dulces Snickers lleva el nombre de el/la <BLANK> de su creador.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "caballo mascota",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "355701_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

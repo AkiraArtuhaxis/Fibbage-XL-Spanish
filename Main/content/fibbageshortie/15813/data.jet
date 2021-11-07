@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pinturas,Ingeniería Genética,Vestidos de Boda,Pagar un Rescate,Ir de Compras,Cirugía Cosmética,Universidad,Hambriento,Destruir a tus Enemigos,Anticonceptivos,Cocina,Viajar por el Mundo,Empezar un Negocio,Paracaidismo,Odontología,Construcción de Naves,Construir una Tina Caliente,Comprar una Casa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "autoayuda",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Citas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Blair Tolman escribió un libro de autoayuda llamado <i><BLANK> por menos de un dólar: 301 ideas<\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "349892_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "349889_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

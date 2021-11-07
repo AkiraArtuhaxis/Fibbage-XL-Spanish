@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "auto,compañero,sombrero,rodilla,arma,entrepierna,esposa,hombro,hijo,casa,perro,palo de noche,cara,ojo,trasero,bigote,casco,café",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "policía",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caballo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A las 2:45 a.m. un día en junio de 2013, un hombre en Orlando, Florida fue detenido por acercarse a un oficial de policía y golpear su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "su caballo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "325411_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

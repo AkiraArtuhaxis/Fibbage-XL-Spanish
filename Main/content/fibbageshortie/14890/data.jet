@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vaquera inversa,prostituta,pervertida,cachonda,entrepierna,cunnelingus,perrito,ninfómana,misionaria,69,estimuladora,lamedora,fetiche de pies,esclavizada,explosiva,tímida,dominante,trío",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "apareamiento",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lesbiana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a sus hábitos de apareamiento inusuales, el Huico de Nuevo México recibe el sobrenombre de lagartija <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lesbo,lezbiana,lezzy,lez",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "329783_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "leche,sal,carne,huevo,café,miel,arroz,mantequilla,limón,canela,crema agria,vinagre balsámico,yogur,cáscara de naranja,queso parmesano,perejil,jugo de limón,azafrán",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Secciones anales",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vainilla",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las secreciones anales de un castor pueden utilizarse para sustituir el/la <BLANK> en algunas comidas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "saborizante de vainilla,sabor de vainilla,vanila,vannila,vannilla",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318650_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

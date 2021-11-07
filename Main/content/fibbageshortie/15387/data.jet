@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "carretilla,casa de perro,zanja,vestidor,bóveda de banco,cama de padres,cubículo,granero,telesilla,ataúd,banquillo,celda de prisión,lavabo,cabina de sonido,caja,lago,chimenea,cervecería",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Playtex",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "canoa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una encuesta de 2013 realizada por Playtex reveló que el 8% de los canadienses han tenido sexo en un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "canao,kayak",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "340189_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "340186_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

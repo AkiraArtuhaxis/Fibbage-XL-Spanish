@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "paraguas,barbas,bananas,panqueques,perchas,suéteres con cuello en v,rompecabezas,armónicas,cinturones,dentaduras postizas,tazas de café,aviones,peines,perritos calientes,columpios,ponis,conejos,percheros para sombreros",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Hitchcock",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "huevos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El famoso director de cine Alfred Hitchcock - el “Maestro del suspenso” - afirmó: “Me dan miedo los/as <BLANK>, peor que darme miedo, me dan asco”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "uevos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "340143_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "340140_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

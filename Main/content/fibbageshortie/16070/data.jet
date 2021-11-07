@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "botellas plásticas,Argentina,sus bocas,el océano,grupos,su imaginación,el desierto,las calles,la piscina,su jardín,hormigueros,su cerveza,cuevas de murciélagos,el lavabo,sus camas,sus tanques de gas,sus pantalones,tazas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "selva tropical",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la ducha",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un grupo ambientalista brasileño lanzó una campaña en 2009 para salvar la selva tropical instando a la gente a orinar en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "duchas,ducha,una ducha",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "355501_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "355498_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

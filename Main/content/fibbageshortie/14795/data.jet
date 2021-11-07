@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hurón,Playstation 2,pijama,guante de coicna,bong,colección de VHS,leña,amante,pasta,calcetín de lana,carne seca,taza de café,sombrero,lámpara de lava,paraguas,calabaza,dulce de Halloween,póster de John Belushi",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "en llamas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cerveza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 24 de octubre de 2013, un hombre en Columbus, Georgia fue noticia cuando corrió hacia su casa en llamas para salvar su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vaso de cerveza,botella de cerveza,lata de cerveza,lata cervecera",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "327972_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

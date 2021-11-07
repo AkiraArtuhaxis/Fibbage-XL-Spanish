@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "duende,jugador de fútbol,perro,fantasma,zanahoria,nube,maestro,maldición familiar,videojuego,canción de heavy metal,goblin,hada,murciélago,gato parlante,oficial de policía,abogado,máquina de karaoke,monstruo del mar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "apuñalado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Tablero del ouija",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2012, un adolescente de Weslaco, Texas, afirmó que la razón por la que apuñaló a su amigo fue porque un/a <BLANK> lo obligó a hacerlo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tablero del ouiji,tablero del ouja,tablero del oija,ouija,ouiji,tablero de ouiji,tablero de ouja,tablero de oija,ouija,ouiji,tablero de ouija",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "332160_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

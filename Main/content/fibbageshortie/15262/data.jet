@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sopa,el helado del futuro,puré de papas,stir fry,crema de maíz,atún,donas,papas y salsa,barras de granola,queso crema,un dulce,tocino,una pata de cordero,macarrones con queso,paté,Doritos,chucrut,pollo picante",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "espacio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "puré de manzana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo primero que se comió en el espacio exterior fue <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "337311_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "337308_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "veteranos,hombres de negocio,mujeres,la realeza,vendedores ambulantes,Alemanes,adolescentes,periodistas,publicistas,vírgenes,músicos,criminales,fe,oficiales de policía,científicos,perros,alcohólicos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cerveza",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Canadienses",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, la agencia Rethink puso refrigeradores de cerveza roja en toda Europa que solo podían ser abiertos por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "canadiensas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "324028_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "324025_3",
+            "n": "QuestionAudio"
+        }
+    ]
+}

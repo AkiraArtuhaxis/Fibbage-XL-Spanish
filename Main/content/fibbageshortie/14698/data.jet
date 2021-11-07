@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Delincuentes,Roturas,Problemas,Escalofríos,Compañeros,Lapiceras,Tratamientos,botones,heridas,sombreros,Cruces,Trituradores,Platos,Exigencias Ambientales,Mesas,Lámparas,Dagas,Muñecas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Hueso",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cepillos de dientes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Barbara E. Mattick escribió el libro, <i>Una guía de los\/as <BLANK> de hueso de los siglos XIX y principios del XX<\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cepillos de diente",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "326063_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

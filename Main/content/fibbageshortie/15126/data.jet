@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "me ahogo,pene y trasero,me afeité mi bigote,constipado,apático,pasa por la tintorería,miedo a las serpientes,llama a tu mamá,tragedia de pestañas,síndrome pemenstrual,caza de gusanos,las olas están entrecortadas,quiero un divorcio,Frida,tenia,tomando una siesta en el bar,fiesta de salchichas,tu bragueta está abierta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "8",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "día de mal peinado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "~~8-0 es el emoticono poco conocido que significa <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "335144_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sordos,menos locos,invisibles,remos,perritos,vaginas,verdes,más altos,a otro lugar,confiables,dientes,bayas,láseres,solteros,mejores escuchando,mis guardianes legales,más amistosos,alas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "oídos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cámaras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡TUIT DE CELEBRIDAD!    2:44 PM - 10 de mayo de 2011   @THEGaryBusey tuiteó: \"Ojalá mis oídos fueran <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "333623_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

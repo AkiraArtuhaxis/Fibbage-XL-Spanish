@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "conchas marinas,lava,piñas,tazas,zapatos,antorchas tiki,flores,perritos,leis,arte erótico,sombreros,un cerdo entero,bolas de boliche,SPAM,peces,una copia de <i>Los descendientes<\/i>,mochilas,artículos de tocador personales",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "correo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cocos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando estés en la isla hawaiana de Molokai, asegúrate de visitar la oficina de correos de Hoolehua, donde podrás enviar <BLANK> sin usar un paquete.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un coco",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "354139_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

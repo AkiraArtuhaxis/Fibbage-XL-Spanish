@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "castrar,correr contra,aporrear,vestirse como,freir,chocar los cinco con,besar,hacer malabares con,insultar,impregnar,escupir,burlarse de las,pintar,poner maquillaje en,afeitar,adorar,ahogar,prender fuego",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ardillas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "contar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La ciudad de Olney, Illinois organiza un evento anual para <BLANK> ardillas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "contar todas las,sumar todas las,hacer un inventario de las",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "356224_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "356221_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

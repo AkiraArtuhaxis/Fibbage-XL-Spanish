@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "condones,jalea,DVDs de “Duro de matar”,calcetines,videojuegos,suéteres,pastelitos,harmonicas,balas,cámaras desechables,Playboys,bebés de juguete,galletas saladas,G.I. Joes,lápices,bandanas,cigarrillos,colonia",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Afghanistan",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "galletas de niñas exploradoras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2002, Bruce Willis envió 12.000 cajas de <BLANK> a los soldados estadounidenses en Afganistán.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "galletas de niña exploradora,galletas de exploradora,galletas de exploradoras",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "334017_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334014_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cabello,dientes,brazos,pies,espadas,gusanos,serpientes,lenguas,pechos,caca,monos,Pitufos,árboles,topos,granos,ombligos,vides,huevos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "gummi",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "oídos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Haribo vende un gummi en Alemania que representa un trasero humano con <BLANK> creciendo fuera de él.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "326406_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "326403_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

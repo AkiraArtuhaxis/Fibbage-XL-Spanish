@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "palillos,palillos,bambú,pañales,almohadas,pudín,sandalias,videojuegos,gafas de sol,bloques de cemento,ShamWow!,aniños de meñique,camas de autos de carreras,estiércol,pantalones cargo,gongs,velas,algodón de azúcar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Contrabando",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ajo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2010, los aduaneros de la frontera entre Noruega y Suecia interceptaron un camión tratando de traficar 28 toneladas de <BLANK> desde China.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cabezas de ajo,bulbos de ajo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318990_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

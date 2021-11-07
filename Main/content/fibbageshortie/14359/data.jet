@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Notas de pagaré,besos,chocar los cinco,nuggets de pollo,sal,armas,estampillas,multas de estacionamiento viejas,relojes,pezcado con papas,papel higiénico,lámparas antiguas,pegatinas,arañas vivas,peces,pelo,caca,cupones para masajes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "estacionamiento",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "castañas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En otoño de 2013, una compaía que posee estacionamientos en Inglaterra permitió temporalmente a los conductores pagar por aparcar no con dinero, sino con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "castaños,nueces",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "319183_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Compañero de Cocina,Fibbage,Comida Nuclear,Caja Caliente,Chef Robótico,Horno Holandés,Cocinero del Futuro,Cocinero Rápido,La Caja,Comida Flash,Comida Muy Rápida,Rapidito de la Tarde,XXX,Amanda,El Primer Beso de Rory,Ñam Ñam Robótico,Jeff Hansen,Electrocutor de Alimentos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "código secreto",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Salchicha Rapidita",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre en clave secreto (traducido) del proyecto para inventar el primer horno microondas en la década de 1940.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Salchicha rápida,Salchicha rapida,Operación Salchicha Rapidita,Operacion Salchicha Rapidita,Operación Salchicha Rápida,Operacion Salchicha Rapida,Operación Salchicha Rapida,Operacion Salchicha Rápida",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "338694_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338691_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "racistas,chefs,maestros,estudiantes de teatro musical,republicanos,amantes de las mascotas,criminales,personas a punto de morir,personas que consumen marihuana,divorciados,infieles,dueños de armas,niños del medio,políticos,católicos,una persona de un par de gemelos,trabajadores de comida rápida,fumadores",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "multitud",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mormones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio realizado en la Universidad de Tufts por el estudiante de posgrado en psicología Nicholas Rule encontró que las personas tienen la capacidad de señalar <BLANK> entre una multitud.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un mormón,cualquier mormón,mormones cualquiera,todos los mormones",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "353931_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

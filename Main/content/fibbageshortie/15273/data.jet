@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Más o menos,San Fran,Flamboyant,Abuela,Turístico,Básquetbol,Súper,Bronceado Falso,Conservativo,Diplomático,Plano,Agresivo,Marruecos,Florida,Cono de Tráfico,Naranjita,Chaleco de Cazador,Pomelo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Naranja",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Internacional",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El color del puente Golden Gate se llama oficialmente Naranja <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "337564_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "337561_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

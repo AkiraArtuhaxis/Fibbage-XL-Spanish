@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los payasos,las ventas de garaje,el jazz,la carpintería,los manuales de instrucciones,pagar los impuestos,los muppets,los trenes,el karaoke,hacer malvaviscos,bailar tap,escuchar un teléfono sonar,limpiar pescado,votar en una elección,hacer ironía,los tiburones,estornudar,los pantalones caqui",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "excitación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la poesía",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La metrofilia es la excitación sexual causada por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "los poemas,escuchar poesía,leer poesía,leer poemas,escuchar poemas,redactar poesía,recitar poemas,poesía,la poesia,escuchar poesia,leer poesia,redactar poesia",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "356640_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

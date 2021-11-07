@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Muerte,Arrepentimiento,Silencio Absoluto,Vómito en la Cama,Desayuno Tardío Desnudo,Jerbo Enfermo,Ombligo,Tercer Pezón,Dakota del Norte,Rey de Zurullos,Asesinato,Sueño en un Barril,Moco,Beso a tu Hermano,Leche Materna,Noche,Rick Moranis",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "semana de bienvenida",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Vagabundo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desde 1912, la semana de bienvenida de la Universidad Estatal de Dakota del Sur ha culminado con una celebración extrañamente llamada Día de el/la <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "356000_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "355997_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

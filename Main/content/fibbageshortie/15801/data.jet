@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cabeza de cerdo,bandera blanca,cactus,arenero,antorcha tiki,globo desinflado,alfombra,reproductor de VHS,bote de basura,estatua de Hércules,ladrillo,aviso de pago atrasado,paleta,frasco de lágrimas,casco,canasta de frutas podridas,caja de arena,DVD de “Rocky”",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Netflix",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "fregadero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2004, el director ejecutivo de Blockbuster envió por correo a Reed Hastings, director ejecutivo de Netflix, un paquete extraño. Le envió un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lavabo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "349625_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

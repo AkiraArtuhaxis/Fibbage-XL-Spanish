@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sexo,llanto,espárrago,inmersión flaca,sandalias,lancha de motor,pantalón corto,baile cuadrado,protector solar,hablar como una chica,taco,ajenjo,básquetbol,depilación masculina,pantalón de cuero,skateboarding,afeitarse,karaoke",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Rather",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "heroína",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para una historia sobre la que estaba reportando en 1955, Dan Rather probó el/la <BLANK> por primera vez.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "heroina",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "338070_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338067_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

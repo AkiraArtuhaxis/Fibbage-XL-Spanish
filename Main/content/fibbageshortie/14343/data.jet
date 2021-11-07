@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Defecan,Fuman,Se ríen,Duermen,Pelean,Orinan,Tosen,Critican,Aplauden,Mueren,Escupen,Lloran,Comen,Se limpian,Hacen Caras,Fingen el Orgasmo,Se Ponen en Cuclillas,Se Paran",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Mono",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Gritan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Centro de Primates de Alemania realizó un estudio llamado \"Por qué los monos femeninos <BLANK> durante el sexo\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "318846_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318843_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

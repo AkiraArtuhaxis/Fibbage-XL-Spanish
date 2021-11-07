@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "la Maldad,Tabaco,Fuego,Pezcado,Gas,Abuelo,Patata,Caballo,Amor,Mostaza,Ácido,Aceite de Motor,Él,Locura,Pintura,Sangre,Castor,Ladrido",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "champú",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Yogur",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1979, Clairol introdujo y luego casi inmediatamente descontinuó el extraño champú llamado \"Toque de <BLANK>\".",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "329031_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

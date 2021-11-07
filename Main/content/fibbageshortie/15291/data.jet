@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "brille,se convierta en plumas,se achique,se derrita,desaparezca,tenga un buen sabor,crezca más rápido,flote,tenga manchas,envejezca hacia atrás,se ponga dura,se desprenda,pique,se convierta en escamas,se vuelva naranja,se sienta como madera,crezca pelo en exceso,se ponga mohosa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "piel",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se vuelva azul",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La rara condición conocida como “argiria” hace que la piel de las personas <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "se haga azul,se vuelva asul,se haga asul,se aga azul,se convierta en azul,se haga azul,parezca azul,se vea azul",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "337975_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

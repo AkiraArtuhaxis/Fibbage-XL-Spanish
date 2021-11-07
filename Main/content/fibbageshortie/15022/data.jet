@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cigarrillo,pingüino,tallo de maíz,papa frita,aro de básquetbol,útero,escoba,salchicha empanizada,dedo,centauro,corbata,clarinete,poste de teléfono,lengua,calcetín,rosa,bigote,diyeridú",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "reloj de sol",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pierna de mujer",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Mientras visitas Roselawn, Indiana, observa el reloj de sol gigante hecho para parecerse a un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pierna,pierna de señorita,pierna de señora,pierna femenina,pierna de mujeres,piernas de mujeres",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "332774_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

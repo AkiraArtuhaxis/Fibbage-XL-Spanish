@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "señoras mayores,bailarines,loros,águilas,Roombas,coreógrafos,tejones,mariposas,Ninjas,mucamas,helicópteros a control remoto,autos de carreras,contadores,poemas,escaleras,almohadas,luchadores,reproductores de DVD",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Marruecos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "monos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2003, Marruecos hizo la oferta muy inusual de enviar 2.000 <BLANK> para ayudar en el esfuerzo de guerra de Estados Unidos en Irak.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "monitos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "338993_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338990_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

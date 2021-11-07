@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "autos,libros,pastel,videojuegos,platillos de comida,vestidos,pasteles,historietas,cupcakes,zapatos,zapatos,sombreros,películas,aderezo de ensalada,dulces,lentes de ópera,whisky,bolsos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "helado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bagels",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Ben y Jerry solo empezaron a hacer helado porque era demasiado caro hacer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bagles",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "330016_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330013_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

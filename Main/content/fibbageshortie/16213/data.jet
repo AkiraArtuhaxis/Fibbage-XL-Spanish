@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "petizas,obesas,sin cabeza,viejas,hermosas,muy enfermas,ladronas,olorosas,muertas,idiotas,verdes,borrachas,suecas,pelirrojas,personas,pecosas,deprimidas,delgadas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "caras",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "feas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según un estudio de la Universidad de Jena, las personas que tienen los rostros más memorables son las personas <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "horribles,horriblemente feas,muy feas,realmente feas,poco atractivas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "358883_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

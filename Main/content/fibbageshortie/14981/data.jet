@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "conductor de taxi,peluquero,malabarista,lustrador de zapatos,payaso de rodeo,imitador del Papa Juan Pablo,bailarín,peluquero canino,luchador,barista,boxeador,carpintero humilde,minero,mimo,vendedor de autos,presentador de programa de juegos,chef,telegrama cantado",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Buenos Aires",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "portero de discoteca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando era un joven estudiante en Buenos Aires, el Papa Francisco trabajó como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "portero de bar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "331818_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "331815_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

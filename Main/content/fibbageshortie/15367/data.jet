@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Imitador de Mussolini,modelo de mano fascista,ventrílocuo,vendedor puerta a puerta,ladrón de tumbas,payaso,modelo nudista,pescador,psíquico de perros,crítico de teatro,nadador sincronizado,conductor de carreras,peluquero,vendedor de autos usados,bombero,maestro de jardín,caricaturista,mimo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Mussolini",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "músico de jazz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Romano Mussolini, hijo del dictador fascista Benito Mussolini, no siguió los pasos de su padre. En cambio, se ganaba la vida como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "musico de jazz,músico,musico,intérprete de jazz,interprete de jazz",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339726_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

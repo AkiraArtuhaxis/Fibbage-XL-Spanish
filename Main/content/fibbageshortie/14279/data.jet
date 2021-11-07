@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mecedoras,calabazas,cocaína,zapatos,joyería,ropa interior,marihuana,porno,blackjack,velas,tortugas,piñas,tubos,mapas,sombreros elegantes,jabón,chocolate",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "América",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pepinillos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Amerigo Vespucci, el hombre por el que se nombró a América, era un distribuidor de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pepinos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "317483_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

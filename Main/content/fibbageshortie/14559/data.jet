@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fogatas,personas viejas,serpientes,hidrantes,tumbas,monjas,pasteles,piscinas,Biblias,autos,mujeres desnudas,emparedados,un obispo,iglesias,gatos y perros,bañeras,inodoros,tridentes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "diablo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bebés",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Colacho es un festival español donde la gente se viste como el diablo y salta sobre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un bebé,un montón de bebés",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "323215_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "323212_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

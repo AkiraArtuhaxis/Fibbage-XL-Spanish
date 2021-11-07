@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hacer malabares,lanzar un misil,programar,resolver un cubo rubik,patinar sobre hielo,aplicar acupuntura,hablar Klingon,volar un helicóptero,hacer breakdance,jugar básquetbol,soldar,despellejar un cerdo,contar cartas,encender una fogata,conducir un camión monstruo,usar radios HAM,luchar,cazar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "profesores",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tocar el acordeón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la década de 1990, los profesores de Corea del Norte, curiosamente, estaban obligados a saber cómo <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tocar acordeón,tocar el acordeon,tocar acordeon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "349539_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "349536_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

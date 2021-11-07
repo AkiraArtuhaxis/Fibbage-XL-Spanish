@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "encendedores,paradores,colores,intrusos,aliens,barras luminosas,policías falsos,ayudantes felices,dingles,Filas verdes,señales mágicas,portales,lámparas,guardianes de la paz,fuegos artificiales,dulces,mayordomos,estrellas maquinarias",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "tráfico",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "robots",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo que los sudafricanos llaman semáforos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "robot",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334891_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

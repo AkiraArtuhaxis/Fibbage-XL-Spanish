@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sudor,vómito,maquillaje,sarpullido,lágrimas,perforaciones,saliva,tatuajes tribales,pintura facial,cabello,vagabundos,arañazos,marcas,huellas dactilares,streamers,jugo de interpolación,moretones,verrugas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "abrazado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "brillo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡TUIT DE CELEBRIDAD!   1:07 AM - 2 de agosto de 2013   @taylorswift13 tuiteó “Gracias por esta noche, Des Moines. Encontré cantidades infinitas de <BLANK> en mis brazos por haber abrazado a muchos de ustedes esta noche”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "335568_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "335565_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

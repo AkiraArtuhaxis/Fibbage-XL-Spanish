@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Serpientes,Canadienses,Viejos,Bichos,Gérmenes,DJs,Ciervos,Zombis,Racistas,CEOs,Peces,Personas Viejas,Vampiros Sexys,Baristas,Feministas,Cerdos,Rusos,Espías",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Maten",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hippies",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2007, Golden Laurel Entercate publicó un violento juego de mesa llamado Maten a los/las <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hippys,hippis,hipys,hipis,jipis",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330128_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

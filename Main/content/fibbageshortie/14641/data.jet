@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "togas,sombreros de copa,pañales,pañales de adulto,armaduras,capas,pelucas,rosa fuerte,minifaldas,trajes de gorila,bolsas de basura,monóculos,papel higiénico,cuernos,nada,alas,bikinis,cajas de cartón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "baile de graduación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cinta adhesiva",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, dos adolescentes de Sequoyah High School cerca de Atlanta, Georgia ganaron becas de $5.000 por usar <BLANK> en el baile de graduación.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cinta",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "324892_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

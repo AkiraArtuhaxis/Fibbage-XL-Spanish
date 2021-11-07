@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "traicione,se burle,lave,revenda,tire,dude del,toque,cuestione,entierre,duerma con,tire,juegue a las atrapadas con,disfrute demasiado,afeite,critique,huela,intercambie,cosquillee",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "iPod",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "coma",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "De la letra pequeña del iPod Shuffle original: “No <BLANK> el iPod Shuffle”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comas,coma este,comas este,coma el,comas el",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "330554_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330551_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

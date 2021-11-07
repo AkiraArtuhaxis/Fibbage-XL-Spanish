@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fuego,pañuelos,poodles,agua,parejas,pinos de boliche,pianos,espadas,peces,ratas,autos,gatos,personas desnudas,bebés,personas dormidas,zapatos,lámparas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "récord",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "motosierras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Con 88 atrapadas, el canadiense Aaron Gregg mantiene el Récord Mundial Guinness de malabares con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "moto sierras",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "329497_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "329494_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

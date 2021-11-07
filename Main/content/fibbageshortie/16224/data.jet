@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pastelitos,abuela,pelo quemado,queso,una prisión,hummus,huevos podridos,whisky,pez muerto,zapatos,flores frescas,olor corporal,azufre,un zorrillo,agua de pantano,pedos,salsa de búfalo,licor",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "retiro del mercado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "orina de gato",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, Dell emitió un retiro del mercado después de que los clientes se quejaran de que sus computadoras portátiles olían a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pipí de gato,pipi de gato,orina felina,pipí felino,pipi felino,pis de gato,pis gatuno,pis felino",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "359125_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

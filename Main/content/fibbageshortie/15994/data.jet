@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ensaladera,canal Playboy,encendedor Zippo,mullet,triturador de basura,PedEgg,linterna,batamanta,tostadora,control remoto,reproductor de VHS,Muslomaster,Walkman,bagel de pizza,condón,cabezal de ducha,riñonera",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "economista",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lavadora",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El economista de la Universidad de Cambridge, Ha-Joon Chang, tiene una opinión impopular. Insiste en que el/la <BLANK> cambió el mundo más que Internet.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "353845_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "masajes en la espalda,una crítica constructiva,dinero,leche,cocaína,una cuenta de Facebook,estimulación anal,sombreros divertidos,privacidad,fiestas de cumpleaños,tatuajes,desodorante,hamburguesas,cumplidos,ubres extra,marihuana,RCP,camas de agua",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "5% más de leche",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "nombres",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio publicado en la revista <i>Anthrozoo<\/i> informó que las vacas producen un 5% más de leche cuando se les da <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "355524_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "355521_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

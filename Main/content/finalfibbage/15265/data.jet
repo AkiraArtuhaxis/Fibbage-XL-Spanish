@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pepácido,Fizzo,Coca-Cola,Agua Marrón,Cola Nuez,Sonrisa,Doctor Pep,Trato Dulce,Tónico del Verano,Rayito de Sol,Agua Divertida,Wow Rico,Mañana Digestiva,Caca Bebible,Jugo de Jamón,Papsi,6-Up,Cola Americana",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Pepsi",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La Bebida de Brad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre original (traducido) para Pepsi.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Bebida de Brad",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "337377_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

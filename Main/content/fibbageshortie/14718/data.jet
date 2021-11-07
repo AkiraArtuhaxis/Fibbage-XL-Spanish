@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Amigos,Papeles Higiénicos,Plásticos,Mocos,Gatos,Alfombras,Condones,Oxígeno,Personas,Recortes de uñas,Comidas,Aguas de baño,Mostazas,Recuerdos,Balas,Cepillos de dientes,Autos,Pastos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Premio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Tumbas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Premio Diagrama de 1995 por el título del libro más antiguo del año lo recibió el libro <i>Reusando Viejos\/as <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "326495_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

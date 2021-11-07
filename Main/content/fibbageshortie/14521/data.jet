@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "esponjas,servilletas,almohadas,baguettes,ropa interior,zapatos,sillas,paraguas,láseres,poemas,armas de pintura,guantes,osos de peluche,bolas de algodón,palitos de helados,toallas de papel,plumas,insultos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "armas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "naranjas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cada año los residentes en Ivrea, Italia reinventan una batalla histórica de su región, y en lugar de réplicas de armas, usan <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una naranja,un montón de naranjas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "322469_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

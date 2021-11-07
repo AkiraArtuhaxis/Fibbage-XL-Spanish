@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hilo,penes de oso,dinamita,peces,dientes de caballo,explosivos,chicle,cartílago,cemento,zurullos de perro secos,uranio,moco,huesos humanos,cabello humano,alfombra,animales en peligro de extinción,cejas,jarabe de maíz",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pesca",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "zanahorias",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La empresa pesquera E21 fabrica una caña de pescar muy peculiar que se compone en un 70% de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "353278_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "353275_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

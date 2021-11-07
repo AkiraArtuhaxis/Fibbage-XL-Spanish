@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Un Camino,Ciudad,gente,Esperanza,Baño,Excusa,Diversión,Dah,Punto,Reglas,Dinero,Gramatica,Vacantes,Turistas,Pero,Bar,Señor,Democracia",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "aldea",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Lugar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Situado cerca de la ciudad de Stanley, hay un pequeño pueblo en Inglaterra llamado (traducido) No Hay <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "325437_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "325434_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

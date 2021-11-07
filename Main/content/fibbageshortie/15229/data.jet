@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Huérfana,Depresión,Sucia,Alcantarilla,Saco Triste,No Amada,A Quién Le Importa,Callejera,Boba,Poppins,Ha Sido,Rayito de Sol,Collar Azul,De Clase Media,Hobo,Mendiga,Plebeya",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "llanto",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sin Nombre",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1965, Hasbro hizo una muñeca triste y que llora vestida con harapos destrozados llamada Pequeña Señorita <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sinnombre",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "336522_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

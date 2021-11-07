@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a Jesús,octillizos idénticos,aliens,estatuas,serpientes,avispas,a un anciano,a un perro parlante,al diablo,fuego,a ella misma,a Robin Hood,abejas,a un hada,muñecas,a una resma de papel,a Santa Claus,muchas monedas de oro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "nacimiento",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "conejos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1726, una mujer británica llamada Mary Toft convenció a los médicos de que había dado a luz <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "conejitos,un conejo,un conejito,conejo,conejito,algunos conejos,algunos conejitos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "351045_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

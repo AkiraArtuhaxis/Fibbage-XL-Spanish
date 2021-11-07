@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "borrachos,obejas,queso,prisioneros,maridos,traseros,huérfanos,caras,latas,ladrillos,elefantes,aire,computadoras,botellas de mostaza,baldes,camiones,palomitas,fuego",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Patear",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "espinillas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Gloucestershire, Inglaterra, es el hogar de los Cotswold Olimpicks, cuyo punto culminante es la tradicional competencia de patear <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una espinilla",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "319799_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pájaros,sexting,Hojas,Tallas,Dormir,buhos,Masturbarse,cometas,Ulular,luchar,Silbar,Amantes,Estudiar,elfos,surfear,streamers,fantasmas,dormitorios",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "árboles",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hippies",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Calum Wright, mientras estudiaba en UC Berkeley, fundó una organización llamada “Estudiantes contra <BLANK> en los árboles”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "353016_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "353013_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

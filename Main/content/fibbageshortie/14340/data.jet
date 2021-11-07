@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un títere,un tipo en un disfraz de marmota,una zanahoria,un estéreo,una pelota de fútbol,un Slinky,una pintura,un maniquí,flores,una mujer desnuda,un holograma,lechuga,un peluche,un hermoso árbol,nada,un comediante,una zanahoria,un número 2 gigante",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Punxsutawney Phil",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una marmota animatrónica",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "PETA le ha pedido a los funcionarios de Punxsutawney, Pennsylvania que reemplacen a Punxsutawney Phil, la marmota del Día de la Marmota por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un robot,una marmota robot, una marmota robótica,robots,robot,marmota robot,marmotas robóticas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318774_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "apuñalados,esposados a un cohete,asesinados,pateados por una mula,enterrados vivos,bañados en ácido,aplastados por un yunque,golpeados por un oso,incendiados,afeitados,atacados por perros,obligados a oler un pedo,mordidos por una víbora,clavados al suelo,desmembrados,atacados por hormigas rojas,insultados,usados como pelota de fútbol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Punjab",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "atropellados por un tractor",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Festival Deportivo de Kila Raipur, que se celebra anualmente en Punjab, India, tiene muchos eventos extraños y peligrosos, incluido uno en el que los participantes se ponen en el suelo y son <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "atropellados por tractores,aplastados por tractores,aplastados por un tractor",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "356907_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

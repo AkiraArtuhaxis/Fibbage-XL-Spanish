@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "baile de regazo,concurso de baile,maratón,pelea de cuchillos,concurso de camisetas mojadas,partido de fútbol,puesto de barril,servicio funerario,clase de zumba,concurso de deletreo,certamen de poesía,carrera de sillas de ruedas,truco en patineta,proyección de Crepúsculo,concurso de comer pasteles,redada de drogas,corrida de toros,flash mob",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "107",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tiroteo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Monroe Isadore, un hombre de 107 años de Arkansas, murió durante un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "balacera,pelea de pistolas,pelea con armas de fuego",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "319569_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

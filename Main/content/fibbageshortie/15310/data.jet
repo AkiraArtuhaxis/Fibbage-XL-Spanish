@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "martillos,sombreros de vaquero,corbatas,pantalones deportivos,carretillas,controles remotos,vasos de vino,lentes de sol,almohadas,walkie-talkies,muñecos de peluche,latas de sopa,alfombras,esteras de pilates,audífonos,tazas de café,pollos,prostitutas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "regalo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "patatas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 13 de enero de 2014, el secretario de Estado de los Estados Unidos, John Kerry, presentó al ministro de Relaciones Exteriores de Rusia, Sergei Lavrov, el extraño regalo de dos grandes <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "taters,papas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338415_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

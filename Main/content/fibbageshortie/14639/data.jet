@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "haciendo twerking,saltando en trampolín,jugando Monopoly,quejándose,en matemática,entrenando mascotas,mintiendo,cortando el pelo,bailando en un salón,en comedia stand-up,pescando,haciendo malabares,en la rayuela,cortando el césped,haciendo sentadillas,suplicando,saltando piedras,paseando perros",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "conmemorativas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "llamando patos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las inusuales becas conmemorativas de Chick y Sophie Major se otorgan a estudiantes de secundaria que sean buenos <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "haciendo llamadas de patos,atrayendo patos,con patos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "324846_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

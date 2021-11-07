@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Caquita,Bamba,Gatita,Snuki,Pantobillas,Adorable,Vinchita,Mierdita,Florcita,Irritable,La,Rayito de Sol,Perfumada,Bañada,Roquita,Cariñitos,Sábana,Fergie",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cartel de drogas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Barbie",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Édgar Valdez Villarreal, un notorio líder mexicano del cartel de las drogas, tenía el apodo no tan aterrador “La <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "barby,barbi",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "317699_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

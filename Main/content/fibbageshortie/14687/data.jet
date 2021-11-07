@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los pájaros,Santa,el Conejo de Pascua,Ronald McDonald,Stephen Hawking,el Diablo,las Mujeres,el Hada de los Dientes,el Presidente Bush,Dora la Exploradora,los Elfos,Darth Vader,Pie Grande,Betty White,los Trolls,todos los criminales,Cupido,Betty Boop",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nebraska",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Dios",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2007, para probar un punto, el senador estatal de Nebraska, Ernie Chambers, presentó una demanda frívola contra <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "325838_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

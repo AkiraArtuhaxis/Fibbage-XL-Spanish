@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nerds,congresistas,periodistas,payasos,mamás suburbanas,bandas de mariachi,atletas profesionales,meseros cantantes,músicos,artistas callejeros,astronautas,concursantes de reality show,magos,modelos,maestros,encuestadores,habitantes de Florida,dentistas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "molesto",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hipsters",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En una encuesta de 2013 realizada por Public Policy Polling, el 27% de los votantes pensó que los/as <BLANK> deberían tener un impuesto especial por ser tan molestos/as.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hip sters,hipster,todos los hipsters",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339289_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

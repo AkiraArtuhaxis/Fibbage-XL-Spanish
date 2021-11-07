@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "carne de res,prostitución,sombrero,pañal,didgeridoo,chicle,jeep,pantalón cargo,cuchillo,veneno de serpiente,cigarrillo,cocodrilo,camarón,mecedora,bumerang,arma,galleta salada,DVD",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "petición",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cerveza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el año 2000, Australia tuvo su petición en línea más grande hasta la fecha, que pedía que se pusiera fin al aumento de los precios de el/la <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "336028_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "336025_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

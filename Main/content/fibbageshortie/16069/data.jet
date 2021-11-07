@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "scooter,carretilla Red Flyer,caballo de carrusel,refrigerador,árbol de Navidad,estatua de Bill Clinton,tabla de surf,banana gigante,bañera,ataúd,patineta,carroza,réplica del Batimóvil,tiburón,cama de hospital,inodoro,carrito de perros calientes,basurero",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Minnesota",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Silla de La-Z-Boy",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en Proctor, Minnesota, fue arrestado por conducir un/a <BLANK> motorizado/a mientras estaba ebrio.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "silla lazy boy,lazy boy,la-z-boy,silla lay-z-boy,lay-z-boy,silla la-zy boy,la-zy boy,la z boy,silla la z boy,lay z boy,lay z boy,silla lay z boy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "355475_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

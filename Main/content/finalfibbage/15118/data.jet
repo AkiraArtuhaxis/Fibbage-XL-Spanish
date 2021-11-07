@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Telluride,Fitzgerald,Envidia,Denis,Princess,Leviatán,Dignataria,Titani,Gótica,Destino,Ejecutiva,Prospector,Trascendente,Susan B. Anthony,Bebé,Madre,Horno,Beagle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "nave espacial",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Yorktown",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de la nave espacial <i>Star Trek<\/i> en el guión original del creador Gene Roddenberry.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "El Yorktown,Yorkton,El Yorkton,The Yorktown,Yorkton,The Yorkton",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "334963_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334960_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

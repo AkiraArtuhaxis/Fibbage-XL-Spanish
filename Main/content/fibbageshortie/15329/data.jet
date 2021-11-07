@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un cuerpo,alguien que tiene 4 años,una abuela,Vladimir Putin,Jerry Seinfeld,un burro,un robot,un árbol animatrónico,H. Atebeak,Bruce Willis,una momia,un mimo,tú,8 voces en una,un pez de juguete,un celular,un micrófono,Andre Agassi",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "heavy metal",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un loro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El cantante principal de la banda de heavy metal Hatebeak es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338852_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

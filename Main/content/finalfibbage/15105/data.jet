@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Contador,vendedor de hilo,payaso de rodeo,probador de leche,abogado,dentista,Quiropráctico,chef,plomero,instructor de yoga,guitarrista slide,cantante de ópera,granjero,guía turístico,vendedor de nuevo balance,artista de tiras cómicas,piloto,programador",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "personas blancas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Veterinario",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La ocupación estadounidense con el mayor porcentaje de personas blancas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Veterinarios,vetrinario,vetrinarios",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334661_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

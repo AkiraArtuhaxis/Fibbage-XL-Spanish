@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "de Batalla,Locas,Alocadas,Frígidas,de Toro,Inútiles,Sucias,Dañadas,en la Mano,de Guerra,Colas,Rebotadoras,Abnormales,Grandes,Asesinas,Familiares,Heroínas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Bolas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pegajosas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Solo se hicieron unos 14 juegos para la consola de juegos Gizmondo, incluyendo el juego (traducido) “Bolas <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "326771_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Calva,Sexy,Arrogante,Tonta,Arrogante,Fuerte,Ingenua,Fea,Puma,Tímida,Juguete,Chiflada,Loca,Húmeda,Fea,Bruja,Tetona",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "traducido",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Satán",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La película <i>G.I. Jane<\/i> fue traducida como <i><BLANK> Soldado Femenino<\/i> en China.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "324282_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

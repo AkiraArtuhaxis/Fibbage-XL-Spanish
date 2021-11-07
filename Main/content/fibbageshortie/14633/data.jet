@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Malvado,Hora de Dormir,Extraño,Capataz,Monstruo,Crime,Fuera de forma,Droga,Rusia,Rusia,Traficante,Ignorancia,Godzilla,Racismo,Siniestro,Ropa Interior,Satán,Presidente",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Mascotas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Carie Dental",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1976, la leyenda del boxeo Muhammad Ali publicó un álbum educativo para niños titulado “Ali y su pandilla vs. el Sr. <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Carie,Caries,Caries Dental,",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "324722_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

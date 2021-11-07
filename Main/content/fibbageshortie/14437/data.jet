@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "salami,pañal,murciélago,marioneta,zapato,neumático,revista,pez,cuchara,campana,jarra de cerveza,lata de comida,lechuga,tortuga,baguette,rata,libro,bola de boliche",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Portugal",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "martillo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el festival de Sao Joao en Portugal, golpeas a la gente por encima de la cabeza con un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "320840_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "320837_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

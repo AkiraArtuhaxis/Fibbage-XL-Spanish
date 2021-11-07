@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sudor,veneno,saliva de cabra,vodka,vómito,el estómago de una oveja,el maletero de un auto,cerveza,ácido de batería,queso derretido,grasa humana,lágrimas,heces de búfalo de agua,tu propia sangre,lava,chocolate,agua de tina caliente,aguas residuales",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "huevos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "orina de niño",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando estés de vacaciones en Dongyang, China, asegúrate de probar sus huevos cocinados en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la orina de los niños pequeños,la orina de un niño joven,orina de niños,orina de un niño,orina de un chico,orina de un joven niño,orina de niñito,orina de nene,orina de un pequeño nino",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "354867_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "354864_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

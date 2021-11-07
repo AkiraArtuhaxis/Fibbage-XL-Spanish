@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "zapatos,mochilas,espantapájaros,sombreros,tortugas,paletas,cuerpos,machetes,murciélagos,dólares,sostenes,pepinillos,pantalones,colmenas,llaveros,pajareras,cucharas,chicles",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "colgando",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "muñecas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una isla famosa de México es una atracción conocida por tener cientos de <BLANK> colgando en sus árboles.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "muñecas de bebé,muñecas bebé,muñecas escalofriantes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "323054_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "323051_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

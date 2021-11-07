@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Piel Roja,Asesinato,Segregación Racial,Racista,Marihuana,Gran Trasero,Pelea Perruna,F.U.,Odio,Castigo Capital,Dedo del Medio,Aborto,Fetiche de Pies,1%,Bolas Peludas,Pueblo Caucásico,Campesinos Tontos,Pedo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "aldea",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Esvástica",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Ubicado dentro de los límites municipales de Kirkland Lake, Ontario, se encuentra el pueblo con el controversial nombre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338921_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

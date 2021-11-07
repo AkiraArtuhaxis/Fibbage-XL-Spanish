@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "churls pequeños,deditos arenosos,pequeños icebergs,Joseph Stalin,ice bargs,bip bops,wii berglettes,bebé bergs,bati hielos,peque bergs,vasos nevosos,papá bultos,astilla agua,pequeñas cargas,pequeños cubobergs,ice bebés,paletas pappy,fantasías frescas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "growlers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bergy bits",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según la Asociación Nacional Oceánica y Atmosférica, los pequeños icebergs se denominan oficialmente “growlers”. Los icebergs medianos se conocen con el extraño nombre de dos palabras “<BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bergybits",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338297_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

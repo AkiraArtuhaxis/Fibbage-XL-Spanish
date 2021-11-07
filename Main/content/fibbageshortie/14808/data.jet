@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mascotas,cabellos,padres,cámaras,amantes,almohadas,enemigos,alimentos,maletas,familias adoptadas,niñeras,revistas,profesoras,fotos familiares,gnomos de jardín,empleados,atuendos,autos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vacaciones",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "animales de peluche",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Unagi Travel es una inusual agencia de viajes japonesa que envía a tus <BLANK> de vacaciones.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "animales de juguete",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "328191_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

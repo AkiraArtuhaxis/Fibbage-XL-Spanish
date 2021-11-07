@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cera,localizador,peine,peluca,paraguas,delantal,pastel,manta,recortador,calentador,decorador,carruaje,luz,borrador,espejo,sombrero,cámara,braga",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bigote",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "protector",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Patentada en 1890, la patente estadounidense US435748 es para un/a <BLANK> de bigote.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330459_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "puré,lodo,panes tostados,chocolate,pastel,niños,cabello,yogur,piedras,bichos,donas,tarta,chuletas de cerdo,cocos,pizza,ensalada de papas,centavos,palitos de pan",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nigeria",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "batatas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La versión de Nigeria del Monstruo de las Galletas no puede dejar de comer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "322731_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

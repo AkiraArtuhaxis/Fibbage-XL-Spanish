@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "arena,juguetes,plantas rodadoras,Marina antigua,Apple,Walmart,artículos para bebés,Pelucas,Jeans,todo por un dólar,diamantes,visto en TV,lentes de sol,lanchas de motor,Hello Kitty,pistolas,Dasani,drogas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "desierto",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Prada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando estés en Marfa, Texas, echa un vistazo a la obra de arte inusual con forma de tienda de <BLANK> construida en medio del desierto.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350672_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

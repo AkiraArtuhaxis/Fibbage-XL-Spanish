@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "casino,campo de tiro,tienda de cigarrillos,pelea de gallos,laboratorio de metanfetamina,prisión,burdel,cueva,fábrica abandonada,fábrica de cerveza,antro de crack,cementerio,carrera de autos,bar mitzvah,show de trovadores,show de armas,operación de cambio de sexo,McDonald's",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "excursión",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "club de striptease",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un profesor de química en Indiana fue despedido en 2013 después de que supuestamente llevó a varios de sus estudiantes a una excursión no autorizada a un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "stripclub,bar nudista,club nudista",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "328030_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "328027_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

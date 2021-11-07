@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pintura,diario,esperma,diente de oro,toupée,asiento del inodoro,cera de oído,zapato,ropa interior,laptop,auto,Segway,bigote,virginidad,alma,espejo,segundo nombre,oso de peluche",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "$25.000",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cálculo renal",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "William Shatner recaudó $25.000 para Hábitat para la Humanidad al vender su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "su cálculo renal,cálculorenal,cálculos renales,piedra en el riñón,piedra del riñón,piedra de riñón,calculo renal,calculorenal,calculos renales,piedra en el riñon,piedra del riñon,piedra de riñon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "321066_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

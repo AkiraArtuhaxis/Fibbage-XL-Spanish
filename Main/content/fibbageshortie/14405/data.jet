@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "barriles,ataúdes,autos,escritorios,carretillas,sandías,maniquíes,parrillas,carritos de compras,trampolines,inodoros,autobuses escolares,bañeras,mesas,woks,sofás,casas de muñecas,contenedores de basura",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "botes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "calabazas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los habitantes de Damariscotta, Maine realizan una carrera anual en la que usan <BLANK> como barcos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una calabaza",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "320202_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "320199_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

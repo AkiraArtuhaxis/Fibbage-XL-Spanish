@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bañador,etiqueta de nombre,serpiente sobre sus hombros,corbata,capa púrpura,monóculo,máscara de Richard Nixon,bigote falso,camiseta de Estoy con un Tonto,gorra calva,sostén,gorrito de helicóptero,suspensorio,mano de Hulk,máscara de pato,disfraz de Frasier Crane,cadena de oro,boina colorida",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "psiquiatras",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sombrero de mago",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El senador del estado de Nuevo México, Duncan Scott, logró que se aprobara un proyecto de ley en el senado de Nuevo México que requería que los psiquiatras que testificaran en la corte usaran un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gorro de mago,sombrero mago,gorro mago",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "352545_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "352542_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

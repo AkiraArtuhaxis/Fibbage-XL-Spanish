@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "piedra caliente,pedo,pájaro,cubo de hielo,erección,vela encendida,tarántula,picana,escorpión,lomo de cerdo,castor,cuchillo,petardo,serpiente,barra de dinamita,canica,pezcado,ratón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pantalones",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hurón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Reg Mellor es el campeón reinante de un deporte que solo implica tener un/a <BLANK> en tus pantalones.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "339614_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339611_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

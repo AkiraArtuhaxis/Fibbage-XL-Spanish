@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "jaula de oso,pozo de cobras,campo de tiro,ano de caballo,tina de queso nacho,pozo séptico,ring de peleas de gallos,ballena,cueva de avispas,volcán,motor a reacción,torre nuclear,tornado,ataúd enterrado,licuadora gigante,lavadora,pista de NASCAR,mezcladora de concreto",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "atascado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "trituradora de madera",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Milagrosamente, un hombre en Longview, Washington sobrevivió a un evento desgarrador en 2014 cuando estuvo atascado en un/a <BLANK> por diez segundos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "moledora,astilladora de madera",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "344941_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "344938_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cerebro,Operación de Pechos,Horno,Atención,Fuego,Sostén,Alma,Cocina,Esposo,Nariz,Sentido del Gusto,Televisión,Caballo,Presupuesto de Celebridad,Mano Derecha,David Hasselhoff,Cara,Mucama",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "recetas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Libro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Pam Anderson escribió un libro de recetas con el título <i>Cómo cocinar sin un\/a <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "348373_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "348370_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

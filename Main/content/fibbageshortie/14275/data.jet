@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mina,rinoceronte,lago congelado,volcán,géiser,cañón,cocodrilo,acantilado,bulldozer,león,cerca eléctrica,techo,bola demoledora,escalera,katana,toro mecánico",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sexo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vía férrea",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2008, una pareja fue asesinada en Sudáfrica mientras tenían sexo en un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vía ferroviaria,vía del tren,vía,vía del ferrocarril,vía de ferrocarril,vía de tren,via ferrea,vía ferrea,via férrea,via ferroviaria,via del tren,via,via del ferrocarril,via de ferrocarril,via de tren",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "317408_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "317405_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

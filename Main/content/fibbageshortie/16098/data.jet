@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Elvis,Thomas Crapper,Pete Rose,Kurt Cobain,Marilyn Monroe,Jesús,Carlomagno,Bruce Springsteen,George Washington,Napoleón,Big Bird,James Earl Jones,Mark Twain,Jim Henson,Cleopatra,André el Gigante,Albert Einstein,El Rey Tut",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "reparación de autos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hitler",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Mientras estés en Florence, Nueva Jersey, asegúresate de visitar el taller de reparación de autos que, según su propietario, tiene un baño en funcionamiento que alguna vez era de la propiedad de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Adolf Hitler,Adolph Hitler",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "356118_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

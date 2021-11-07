@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cerebros de gato,heroína,sudor humano,globos oculares,lengua,dientes de bebé,gallinas mecánicamente separadas,saliva de bruja,paté de higado,ojo de tritón,lodo,cabello humano,grava,uñas de los pies,sangre de virgen,arsénico,huevos podridos,cocaína",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "India",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "orina de vaca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En India puedes comprar una gaseosa llamada Gau Jal que incluye el extraño ingrediente de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pipí de vaca,pis de vaca,pipi de vaca",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "338093_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338090_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

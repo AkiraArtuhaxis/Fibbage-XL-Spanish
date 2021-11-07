@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "shorts,una camiseta de Green Day,lentes de sol,una bata de baño,chancletas,un abrigo de piel,una falda,mucha joyería,un bikini,una tanga,nada,una peluca,zapatillas deportivas,pantalones deportivos,una capa,un disfraz de diablo,pintura facial,uñas a presión",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Cementerio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "botas de vaquero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El cementerio Evergreen incluye una extraña estatua de Jesús con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "botas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "331105_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "331102_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

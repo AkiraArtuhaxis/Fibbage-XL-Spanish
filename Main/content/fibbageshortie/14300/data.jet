@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "serpientes,bandidos,mapaches,nerds,prisioneros,huérfanos,osos,ninjas,cometas,robots,bandas motoqueras,mariposas,Nazis,glotones,anguilas,modelos,tortugas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Japón",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gatos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tashirojima es una isla fuera de Japón que está completamente desbordada de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "muchos gatos,gatos salvajes,gatos sin hogar,gatos callejeros,gatos de la calle",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "317910_3",
+            "n": "QuestionAudio"
+        }
+    ]
+}

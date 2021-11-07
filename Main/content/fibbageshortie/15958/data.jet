@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "perro muerto,aplicación de teléfono,fantasma,osito de peluche,árbol de piñas,esqueleto,almohada con ojos dibujados en ella,tanque de agua,póster de Celine Dion,zapato,conejo invisible,dinosaurio en un museo,imitador de Elvis,gato,bolsa llena de pelucas,muñeca Barbie,trapeador con delantal,pila de ropa interior sucia",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "felizmente",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "maniquí en silla de ruedas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre de Watertown, Nueva York, afirma haber estado felizmente casado durante más de 25 años con su esposa Teagan, quien extrañamente es un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "353057_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "353054_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sapo,bebé,persona de la realeza,señal de pare,miembro del Parlamento,casa para aves,estadio de fútbol,poste de luz,bate de cricket,crumpet,vaca,cabina telefónica,cervecería,valla,Starbucks,museo,dentista,librería",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "lamer",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "catedral",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2012, un hombre de 26 años de Londres fue en una misión de lamer cada <BLANK> del Reino Unido.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "iglesia,catedral católica,iglesia católica,catedrel,catedrell",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "331358_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "331355_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

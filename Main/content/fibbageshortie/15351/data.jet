@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "feo,pequeñín,estúpido,pedorro,incompetente,tarado,imbécil,zurullo,diminuto,Lunático,flácido,oloroso,flojo,llamado rey,asqueroso,burro,inútil,pantalones elegantes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "embarazoso",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Impotente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El rey Enrique IV de Castilla tenía el bochornoso apodo de “Enrique el <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339358_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

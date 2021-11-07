@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "radios,camiones monstruo,cartas de béisbol,dominós,robots,aviones,cirvientes,anguilas,tupés,flautas émbolo,cucharas,estatuas de Buda,tazas de café,sombreros de vaquero,VCRs,sandalias,telescopios,espejos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "55.000",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bisontes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Teniendo 55.000, Ted Turner tiene la colección privada más grande del mundo de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bizontes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "330177_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330174_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

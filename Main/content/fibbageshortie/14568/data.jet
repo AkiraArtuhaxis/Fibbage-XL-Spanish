@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "espada,computadora,bebé,botella de veneno,uzi,trampa para osos,auto robado,cuchilla,misil,bazuka,bolsa de cabello,dedo,rosquilla,niño perdido,mono,placa de policía falsa,bong,jeringa de heroína",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "arrestado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bomba de tubo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en Los Ángeles fue arrestado en una recompra de armas patrocinada por la policía cuando, en lugar de un arma, intentó vender a la policía un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bomba",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "323391_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

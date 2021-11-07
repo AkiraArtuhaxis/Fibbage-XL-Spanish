@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "juguetes de madera,mujeres desnudas,la vida del chico explorador,horribles accidentes,origami,escándalos de celebridades,pesca,ciencia ficción,el sacerdocio,agricultura,burros,golf,crímenes,noticias musicales,autos,observación de aves,moda femenina,paseos en bote",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vuelo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "apicultura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El primer reporte sobre los vuelos de los hermanos Wright no apareció en un periódico ni en la radio, sino en un pequeño diario dedicado al tema de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "apicultor,abejas,apicultores,la abeja",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "339844_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339841_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

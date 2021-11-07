@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "flores,margaritas,musgos,plumas,pezones,cuernos,narices,ojos,dientes,pastos,picos,balanzas,agujas,fetos,cristales,cuernos,tallos de maíz,papilas gustativas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "esteroides",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "uñas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Después de una reacción alérgica a los esteroides utilizados para tratar el asma, una mujer de 28 años le empezaron a crecer <BLANK> en la cabeza en lugar de cabello.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "uñas de los dedos,uñas de los pies",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "356620_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "356617_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

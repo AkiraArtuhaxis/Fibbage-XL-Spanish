@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cinta adhesiva,cera,cortinas,césped,sábanas,hojas,almohadas,recivos,basura,correo,bolsas de basura,plumas,servilletas,guantes de cocina,bolsas de plástico,grapas,bufandas,calcetines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vestidos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "papel higiénico",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cheap Chic Weddings es un concurso anual en el que los participantes hacen vestidos de boda usando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "papel de baño",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "325212_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "325209_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

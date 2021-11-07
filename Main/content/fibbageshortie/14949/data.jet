@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pájaro,trasero,arco,corazón,bandana,diablo,nariz,bomba,lengua,cereza,estrella,pistola,árbol,zapato,boina,caballo,fresa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "París",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sombrero de vaquero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando visites París, Texas, echa un vistazo a su réplica de la Torre Eiffel con un/a <BLANK> de color rojo gigante encima.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sombrero",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "331079_4",
+            "n": "QuestionAudio"
+        }
+    ]
+}

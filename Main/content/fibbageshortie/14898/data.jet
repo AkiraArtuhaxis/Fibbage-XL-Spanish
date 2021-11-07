@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "carne de Kobe,Foie gras,Xanex,jamón,champaña,sopa de aleta de tiburón,caviar,cocaína,ostras,mocos,ropa interior,helado,té,confeti,dulces,pañales,citas envueltas en tocino,chicle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cerdos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "marijuana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Aunque es muy poco convencional, el granjero William von Schneidau alimenta a sus cerdos con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "marihuana,hierba,mariuana,marjuana",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "329970_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "329967_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

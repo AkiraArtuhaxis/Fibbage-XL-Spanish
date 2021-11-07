@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Adam Levine,unas patatas,Cee Lo,mi esposa,Shakira,una sombra,la policía,Daft Punk,los fans,unos gatitos,una ardilla,mi papá,la mafia,unas hormigas,un gato,una jirafa,zombis,los mormones",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Blake",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una avestruz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡TUIT DE CELEBRIDAD!   3:20 PM - 9 de Nov de 12  @blakeshelton, el cantante de country y juez en <i>La Voz<\/i>, tuiteó, “Me acabo de caer y me lastimé la mano mientras huía de <BLANK>... No pregunten”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "avestruz,una avestrus,avestrus",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "326964_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

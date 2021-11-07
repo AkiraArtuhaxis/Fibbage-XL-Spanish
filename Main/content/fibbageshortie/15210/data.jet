@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "caja fuerte,Jimmy Hoffa,bola demoledora,langosta,bote,tren,reloj de abuelo,mesa de comedor,ballena,baño para aves,candelabro,huevo Faberge,aro de básquetbol,camión U-Haul,bulldozer,buzón,tina caliente,cobertizo para herramientas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pila",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "piano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando Paul Nelson y Andrew Hunter subieron la montaña más alta de Gran Bretaña en 2006, hicieron un descubrimiento inusual escondido detrás una pila de piedras. Era un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "336093_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "336090_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

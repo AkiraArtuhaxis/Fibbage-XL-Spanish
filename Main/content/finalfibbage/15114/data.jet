@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "abogados,Rusos,contadores,personas llamadas “Henry”,vendedores,lecheros,mafiosos,teóricos conspirativos,no creyentes,pilotos,traficantes de droga,reyes,farmacéuticos,ángeles,periodistas,ladrones de tiendas,senadores,críticos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Houdini",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "psíquicos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Harry Houdini una vez amenazó con disparar a todas estas personas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "psíquico",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "334871_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334868_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

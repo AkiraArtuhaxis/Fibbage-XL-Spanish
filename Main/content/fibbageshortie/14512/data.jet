@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cadaver,escopeta,gato muerto,hoja de marihuana,cubeta,puño en la cara,cepa de gripe aviar,póster de la esvástica,bazuca,línea de cocaína,ataúd,bomba,mano amputada,estadía en un asilo,viaje a América,vibrador,muñeco de Bin Laden,prostituta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "premio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bebé",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un programa de juegos de 2013 en Pakistán causó controversia cuando su gran premio fue un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "chico,niño",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "322265_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "322262_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

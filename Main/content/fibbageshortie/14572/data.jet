@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Crónico,Cuerpo,3000,Peludo,Mírenme,Herida Abierta,Robot,Casi Muerto,Matadocer,Rata de Laboratorio,Doctor,Efectos Secundarios,C3PO,Ataque al Corazón,Enfermitos,Elegante,Paciente 12,Glotón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Seguridad",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Vómitos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Utilizado en estudios médicos, un robot en el Laboratorio de Salud y Seguridad del Reino Unido lleva el nombre (traducido) de Larry <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Vómito,Vomitando",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "323483_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

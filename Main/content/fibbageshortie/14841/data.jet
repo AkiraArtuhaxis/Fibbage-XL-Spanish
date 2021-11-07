@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "alcantarilla,centro comercial,silo,cartelera,basurero,bodega,club de striptease,casa de baños turcos,autobús escolar,prisión,burdel,faro,oficina postal,molino de viento,parada de camiones,fuerte,hospital,vagón de tren",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Queens",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cementerio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desde el año 2000, una pareja en Queens, Nueva York ha estado viviendo sin tener que pagar renta en un/a <BLANK> a cambio de encargarse de él.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cementerrio,cemeterio",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "328814_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "328811_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

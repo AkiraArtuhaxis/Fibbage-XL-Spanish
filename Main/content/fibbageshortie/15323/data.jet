@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "adolescentes,modelos anteriores,mamás de fútbol,antiguos artistas de circo,personas ciegas,gatos,abuelos,serpientes,perros,drones,chicos exploradores,profesores de universidad,viudos,delincuentes sexuales,tigres,espantapájaros,robots,personas que creen que son magos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "disturbio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gemelos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Hay una unidad de la policía antidisturbios en la ciudad rusa de Rostov-na-Donu que está compuesta enteramente por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gemelos idénticos,gemelos identicos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338714_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

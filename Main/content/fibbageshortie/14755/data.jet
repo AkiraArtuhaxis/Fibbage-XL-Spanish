@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lechuga,Espinaca,Brócoli,Lima,Menta,Absenta,Enguaje Bucal,Césped,Manzana,Lechuga,Envidia,Espárrago,Veneno,Aguacate,Pistacho,Marciano,Navidad,Godzilla",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Pepsi",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pepino",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante el verano de 2007, Pepsi vendió una gaseosa de color verde en Japón llamada Pepsi <BLANK> Congelado/a.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "327239_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

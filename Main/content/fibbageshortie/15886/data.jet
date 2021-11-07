@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "estás gritando,haces el amor,te desvistes,estás en un juego de pelota,te masturbas,miras “La Rueda de la Fortuna”,tomas café,buceas,te tiras un pedo,vuelas,te ríes,juegas Monopoly,duermes,cantas,comes,estás en un elevador,lloras,corres",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "fenómeno",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "estás en una librería",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Estás experimentando el fenómeno de Mariko Aoki cuando tienes la necesidad de hacer caca mientras <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "estas en una libreria,estás en una libreria,estas en una librería,estás parado en una librería,estás parado en una libreria,estas parado en una librería,estas parado en una libreria",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "351535_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "351532_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

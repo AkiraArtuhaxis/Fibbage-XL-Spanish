@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "herpes,dibetes,caries,pájaros,abejas,habilidades mejoradas,explosiones,obesidad,cáncer,crecimiento de tamaño,cabello rubio,hongos silvestres,musgo,cámaras,hongo,esperma,gremlins,espuma,granos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "escuela secundaria",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gusanos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una escuela secundaria de Rhode Island descubrió que algunos estudiantes estaban aplastando caramelos Smarties y luego aspirando el polvo. Así que enviaron un correo electrónico a los padres, advirtiendo que un efecto secundario de esta actividad podría ser <BLANK> en la nariz de sus hijos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "351825_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

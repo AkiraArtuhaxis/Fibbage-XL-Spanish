@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Los Pescados Podridos,Sexo en Seco,La Desnudez,Un Golpe en la Cara,Orinar en Público,Los Mocos,Comer Serpientes,Vomitar,Los Pelos Púbicos,Los Animales Atropellados,Un Gato Muerto,Pelea de Puños,La Caspa,El Prepucio,Los Pedos,Los Tatuajes en la Espalda",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nepal",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Insultar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando estés en Nepal, visita los pueblos de Parsawa y Laxmipur, donde podrás disfrutar del poco atractivo Festival de <BLANK> por 10 días.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "insulto,los insultos,el insulto,las malas palabras,malas palabras",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "339522_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339519_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

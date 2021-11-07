@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "asistente de baño,muñeco de ventrílocuo,agente del Servicio Secreto,recreador de la Guerra Civil,mimo,loro de 100 años,tiburón,jugador de tejo profesional,banda de tambores, niño grande,equipo de trineo,banda de delfines,equipo de baloncesto,palmera inflable,escultor de hielo,cuarteto de barbería,mago cantante,tipo vestido de pirata",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "rehabilitación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "imitador de Trace Adkins",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El cantante de country Trace Adkins entró en rehabilitación después de luchar contra un/a <BLANK> mientras viajaba en un crucero por Jamaica.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "parecido a Trace Adkins,parecido a sí mismo,imitador de sí mismo,parecido a si mismo,imitador de si mismo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "344651_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "344648_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "respirar,orar,asear gatos,tallar,el canto tirolés,la jardinería,limpiar,esquilar lana,el baile de salón,el pasto,los caracoles,las tortugas,accidentes médicos,una cámara de 24 horas de Brad Pitt,bingo,parejas que se abstienen al sexo,aspirar,salir a correr",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Noruega",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tejer",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un esfuerzo por impulsar la \"TV lenta\", Noruega tenía un bloque de programación de 12 horas en 2013 dedicado a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cómo tejer,bordado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "329348_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

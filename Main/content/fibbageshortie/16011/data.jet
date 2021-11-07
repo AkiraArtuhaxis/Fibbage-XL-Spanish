@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Donald Trump,Marilyn Monroe,Capitán Garfio,Abraham Lincoln,Walter Matthau,Satán,Batman,Ross Perot,un dedo del medio,ALF,Pikachu,el señor Potter,un puercoespín de un ojo,los pechos de Dolly Parton,El jorobado de Notre Dame,Freddy Kreuger,un payaso,un trasero",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "gárgola",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Darth Vader",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la torre noroeste de la Catedral Nacional de Washington, cuelga una gárgola hecha para parecerse a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "354223_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

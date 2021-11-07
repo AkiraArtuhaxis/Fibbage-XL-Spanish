@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "La Iglesia,El Baile Solo,Harvard,el hospital,Prisión,Un Festival,El Infierno,El Espacio,Hollywood,Narnia,el baño,Vietnam,Rusia,reparar refrigeradores,detención,Lo Extremo,La Antártida,El Cielo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Stallone",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La Silla Eléctrica",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la escuela, Sylvester Stallone fue votado por sus profesores como El Más Probable a Ir A <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "silla eléctrica,la silla,silla electrica,la silla electrica",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "336291_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

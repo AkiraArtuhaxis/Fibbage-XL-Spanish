@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hombre aterrizando en la luna,diablo,pulgar abajo,rata muerta,lengua,serpiente,pastel de bodas destrozado,chico de la piscina,acuerdo prenupcial,abogado,bolsa de dinero,zorrillo,pene,demonio,hombre sonriendo,fantasma,zurullo,arcoíris",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "erigido",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dedo del medio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, un hombre rico de Michigan compró la casa de al lado de su ex esposa y erigió una estatua de bronce gigante de un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dedo,dar el dedo,dando el dedo,dando del dedo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "331677_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

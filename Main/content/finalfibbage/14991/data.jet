@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hokey Packy,Hokey Smoky,Hanky Tirador,Danky Wanky,Hokey Tokey,El Tobogán,El Snog,Jog,Vejiga-Loca,Error,Aleteo Loco,Puré de Papas,El Bung Whopper,Slappy Wappy,El Tocador,Nooky Wooky,La Basura,Wankerdoodle",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Pokey",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hokey Cokey",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo que los británicos llaman el baile que los estadounidenses llaman el “Hokey Pokey”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hoky coky,hokey coky,hoky cokey,el hokey cokey,el hoky coky,el hokey coky,el hoky cokey,el hokey-cokey,hokey-cokey",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "332045_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

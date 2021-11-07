@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "caballeros,mimos,detectives,palomitas,peregrinos,marineros,soldados,payasos,policías de antaño,teléfonos celulares gigantes,Winston Churchill,aliens,x gigantes rojas,traseros,bibliotecarios,boxeadores,árbitros,oídos gigantes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Teléfonos celulares",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ninjas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los cinéfilos que usan sus teléfonos celulares en el Prince Charles Cinema de Londres son escoltados por personas vestidas como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "guerreros ninja,ninja,un ninja",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "320176_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

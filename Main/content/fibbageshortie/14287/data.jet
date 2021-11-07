@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "3,5,10,12,16,20,32,110,2,41,24,99,37,50,46,63,80,70",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "multa por velocidad",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "8",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Walter Arnold recibió la primera multa por exceso de velocidad del mundo en 1896 por ir a <BLANK> kilómetros por hora.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "doce",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "317656_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "317653_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

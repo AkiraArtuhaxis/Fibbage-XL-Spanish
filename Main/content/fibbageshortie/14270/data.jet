@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "chofer de autobús,sombrero,hijo,repartidor del periódico,tío abuelo,pastor,mucama,secadora,reflejo,paraguas,muerte,trasero,sombra,buzón,pasado criminal,propio pedo,ropa,tostadora",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "miedo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "suegra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La penterafobia es el miedo constante a tu <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "madre política, suegrita",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "317290_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

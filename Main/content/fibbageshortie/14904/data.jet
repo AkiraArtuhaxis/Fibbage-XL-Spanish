@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tiroteo,Festejo de Cerdos,Ronquido,Rapeo,Otro Juego,Suicidio,Divorcio,Asesinato,Jalapeño,Golpe con Almohadas,Encuentro de Té,Sexo,Gnomo,Fin de la Diversión,Pappy,Carrito de Inválido,Concurso de Comer,Oficial",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Juego de mesa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Holocausto",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1977, Simulations Publications, Inc. publicó un juego de mesa extrañamente llamado Después del <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "holacausto,holocosto,hollocosto,hollocausto",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "330108_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330105_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

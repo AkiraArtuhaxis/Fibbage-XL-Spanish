@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dildo,Furby,peón,caballito de mar,duende,sirena,Barbie,bañador,panda,libro,muñeca sexual,pastel de boda,escalera,buzón,G.I. Joe,sasquatch,flamenco rosa,esqueleto",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Florida",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hombre de Lego",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un/a <BLANK> de dos metros y medio de altura llegó a la orilla de una playa de Florida en 2011.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "figurita de lego,tipo de lego,figura de lego,pieza de lego",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "320006_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

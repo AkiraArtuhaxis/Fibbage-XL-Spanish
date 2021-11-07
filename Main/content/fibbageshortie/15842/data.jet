@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "oficial de policía,George Washington,Harry Connick, Jr.,sacerdote,maniquí de prueba de choque,Bill Clinton,cartero,Santa Claus,Louis Armstrong,payaso,madre,Jesús,Matthew McConaughey,vampiro,alcalde,padre amo de casa,Satán,duende",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sin camisa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bombero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando estés en Lafayette, Louisiana, asegúrate de ver su estatua algo erótica de un/a <BLANK> sin camisa.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "firefighter",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "350527_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350524_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

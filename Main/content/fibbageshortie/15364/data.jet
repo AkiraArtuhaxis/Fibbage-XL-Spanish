@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "El Sacerdote y la Monja,El Amante de Pío,Levantamiento de Pecho,El Pecado,La Unión Sagrada,El Casado Pervertido,La Santidad del Matrimonio,El Trío,La Cama Matrimonial,La Suciedad,La Negación del Amor,La Noche,Las Velas Calientes,El Casamiento de Dos,Un Chico y una Chica,Postes de Cama,La Monja Traviesa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Papa Pío II",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Dos Amantes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de convertirse en Papa, el Papa Pío II escribió una novela erótica titulada <i>La historia de <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "2 amantes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "339657_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

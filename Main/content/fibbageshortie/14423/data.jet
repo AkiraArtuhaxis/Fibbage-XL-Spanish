@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "globos,caca,plástico,muñecas,árboles,pelusa,chocolate,pan,chicle,polvo,heno,maíz,vidrio,pudín,pájaros muertos,lápices,jeans,huesos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Stonehenge",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "autos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Mientras estés en Alliance, Nebraska, puedes visitar la réplica de Stonehenge hecha de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un montón de autos,coches,automóviles,autos viejos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "320532_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "320529_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

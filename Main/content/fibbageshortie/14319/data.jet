@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cirugías,cafés,sándwiches,vestidos,tintorerías,alquileres de películas,pases de autobús,vinos,muebles,taxis,rentas,guarderías,costas judiciales,deudas de tarjeta de crédito,alimentos para perro,mucamas,pañales,licencias matrimoniales",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nuevo Hampshire",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "parquímetros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un grupo conocido como \"Robin Hooders\" en Keene, Nuevo Hampshire paga por los/as <BLANK> de otras personas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tarifas del parquímetro,tarifas de estacionamiento,tasas de estacionamiento",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318347_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "espada,bolsa de colostomía,escopeta,unicornio de peluche,barril,abrigo de piel,bebé,rosquilla,auto,amuleto,cámara,caminadora,cena,crema de manos,abuela,novio,bate de béisbol,cortacésped",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "strip",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gato",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en Florida fue arrestado por llamar al 911 para quejarse de que no se le permitía llevar su <BLANK> a un club de striptease.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gatito,gaterío",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "325650_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

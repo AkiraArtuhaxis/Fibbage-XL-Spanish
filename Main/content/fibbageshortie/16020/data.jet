@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tinas calientes,el viento,batidoras,mentes,aspersores,palomas,hámsters,despachadores de policía,hormigas,nubes,castillos de arena,fantasmas,puertas,puertas de garaje,perros,movimientos intestinales,radios para la ducha,las malas hierbas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "controlar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cucarachas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La compañía Backyard Brains vende un dispositivo que te permite controlar <BLANK> con tu teléfono móvil.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una cucaracha,movimientos de cucaracha,los movimientos de una cucaracha,movimiento de cucaracha,el movimiento de una cucaracha,el movimiento de cucaracha",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "354442_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "354439_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

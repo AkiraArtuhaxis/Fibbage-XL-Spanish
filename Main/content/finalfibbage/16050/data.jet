@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gordito,Grimace,Lancer,Doinglydudi,Caridad,Chaz,Quantrell,Volcán,Bubú,Llantas,Cacky,Traserito,Shim-Sham,Carson,Gluck,Gustavo,Mickeldock,Lu-lu",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Michelin",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Bibendum",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El extraño nombre oficial del Hombre Michelin.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "355029_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "355026_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "lagarto cansado,hamster emocionado,payaso triste,Rango,palo alto,tijeras para manos,lamedor de perros,capitán pirata,pequeño fuego,ese que hace de Willy Wonka,sombra de ojos,actor justo,actor chica,malgastador de tiempo,hombre gótico,oso sexy,pelo largo,viajero rico",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Johnny Depp",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cambiaforma",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Johnny Depp fue nombrado miembro honorario de la Nación Comanche y recibió un nombre comanche descriptivo. Su nombre comanche, Mah-Woo-Meh, significa <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cambiador de forma",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "350360_4",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "350357_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cajas musicales,el tema de Seinfeld,bongos,la música de Yanni,estornudos,aplausos,camiones de helado,la voz de Alf,flautas,temporizadores de cocina,globos reventando,pedos,pizarrones chirriantes,la voz de Urkel,eructos,tipeo,MC Hammer,zapateado",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "convulsiones",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La voz de Mary Hart",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un profesor de neurología en Albany Medical College documentó en una revista médica de 1991 que uno de sus pacientes tenía convulsiones cuando escuchaba <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a Mary Hart,Mary Hard,la voz de Mary Hart",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "328623_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

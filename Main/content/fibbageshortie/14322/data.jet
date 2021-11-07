@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "galletas,armas,tarjetas de San Valentín,almohadas,poemas,rosas,dinamitas,signos de la paz,máscaras de cerdo,condones,gallinas,muebles de IKEA,botellas de perfume,fórmula de burbuja,libros,cuchillos,pistolas,lápices labiales",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Sueco",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "osos de peluche",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como forma de protestar contra el estado policial de Bielorrusia, un grupo sueco soltó cientos de <BLANK> de un avión.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "juguetes de osos,ositos de peluche,osos de juguete,osos de felpa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "318402_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

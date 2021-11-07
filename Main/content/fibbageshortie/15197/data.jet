@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "chocando los cinco,sudando,meciendo,alimentando,conociendo,acariciando,cogiendo,sosteniendo,bendiciendo,bañando,apretando,frotando,cacheteando,dando de comer,agradeciendo,haciendo cosquillas,molestando,metiendo la mano",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Simmons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "abrazando",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡TUIT DE CELEBRIDAD!  2:49 PM - 15 de noviembre de 2013   La cuenta de Twitter de Richard Simmons, @TheWeightSaint, tuiteó: “En el aeropuerto <BLANK> a todos”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dando abrazos,y estoy abrazando,y abrazando",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "335798_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "335795_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

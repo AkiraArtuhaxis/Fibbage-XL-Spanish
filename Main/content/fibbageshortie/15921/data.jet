@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "partido de ajedrez humano,concurso de belleza,partido de Quidditch,abrazo,rollo de sushi,masaje en la espalda,partido de Risk,descanso,juicio de brujas,ciempiés humano,juego de sillas musicales,competencia de comer tacos,festival de Magic: El encuentro,cantar en la fogata,flash mob desnudo,baile cuadrado,partido de fútbol americano,concurso de cocinar chile",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "6.084",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "partido de quemados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "UC Irvine reunió a 6.084 estudiantes en 2012 para romper el récord mundial del <BLANK> más grande de la historia.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "juego de quemados,partido de quemado,juego de quemado,juego de balón prisionero,partido de balón prisionero,juego de balon prisionero,partido de balon prisionero",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "352300_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "orinar,decir “¡Buenas!”,dormir,toser,tener hipo,cantar,bailar,tirarse pedos,insultar,aplaudir,gatear,apretar su trasero,chasquear los dedos,llorar,golpear,jadear,decir “Eso es lo que ella dijo.”,hacer scat",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cadera",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "reir",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Al sufrir un efecto secundario extremadamente raro después de someterse a una cirugía de cadera en 2010, un holandés ha alejado a su familia porque no puede dejar de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "reírse",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "326610_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

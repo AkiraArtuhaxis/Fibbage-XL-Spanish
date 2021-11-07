@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Viva la France,Traguen polco,Cómanse estaa,Soy un monstruo,Hasta nunca perdedores,Living la vida loca,Mi ferry,Soy el rey del mundo,No pueden tocar esto,Ahí voy mamá,Perdón,Estoy en un bote,Disparé a Kennedy,Pueden chupármela,Soy invencible,Velocidad 2,Quién soltó a los perros,Soy una diosa dorada",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "gritar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Soy Jack Sparrow",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer británica fue arrestada por secuestrar un ferry británico y gritar, \"¡<BLANK>!\"",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "yo soy jack sparrow,soi jack sparrow,soy jack sparow,yo soy jack sparow,soi jack sparow",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "323800_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

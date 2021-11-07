@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "camión,diente,cepillo de dientes eléctrico,tostadora,TV,taza,celular,cama,laptop,lámpara,muñeca,silla,jarrón,plato caliente,bandeja de servir,clarinete,candelabro,ventana",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "eBay",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "puntero láser",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El primer elemento listado en eBay fue un/a <BLANK> roto/a.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "puntero laser,puntero lazer,apuntador láser,apuntador laser,apuntador de luz láser,apuntador de luz laser",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "330278_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "330275_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

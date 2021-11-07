@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "traumatismo craneal,septicemia,ataque de pájaros,la depre,pantalones mojados,pérdida de sangre,fallo de hígado,saturnismo,ahogamiento,ataque de tiburón,ataque de oso,ataque de pánico,tristeza,disparo,falta de sueño,inhalación de humo,colapso pulmonar,decapitación",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cola de caballo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ataque al corazón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Causa de muerte de un doble de riesgo indio que murió mientras cruzaba un río en una tirolina atada solo a su cola de caballo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ataque cardíaco,ataque al corazon,ataque cardiaco,paro cardíaco,paro cardiaco",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "334572_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334569_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

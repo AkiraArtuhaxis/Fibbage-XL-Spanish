@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Caca,Al Revés,Perdedora,Fea,Desagradable,Saltitos,Dios Está Muerto,Wayne Gretzky,Homicidio,Pezón Adolorido,Sobrevalorada,Fantasma Huérfano,Irritable,Uh La La,Pañal,Bien Tonta,Estúpida,Lárgate",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Pico",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Innecesaria",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡VIAJE! Cuando estés en las montañas de North Shore cerca de Vancouver, Columbia Británica, asegúrate de escalar el pico con un nombre inusual llamado Montaña <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "351764_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "351761_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

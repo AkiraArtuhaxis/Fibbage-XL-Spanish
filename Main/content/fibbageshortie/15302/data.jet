@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bagels de pizza,cosas de la basura,pegamento,más bocadillos de frutas que frutas,piel muerta,champú,semen,pastel de frutas,sándwiches de mayonesa,grasa en costillas,palitos de pescado,comida expirada,comida de perro,directamente de paquetes de azúcar,gatos,césped,relleno de sofá",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "44%",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mocos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un estudio realizado por el autor Stefan Gates, el 44% de los adultos admitió haber comido <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sus propios mocos,sus mocos,moco,un moco,uno de sus propios mocos,uno de sus mocos,algunos mocos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338228_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

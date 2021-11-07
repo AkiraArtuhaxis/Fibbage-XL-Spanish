@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Monterrey,Beatriz,Quincy,Té,Snoopy,Democracia,Spot,Rey George,Presidente,Zippo,Molly,Scooter,Monstruo,Scamp,George Washington,Nike,Obama,Moco",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Juno",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Satán",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mientras era presidente de los Estados Unidos, John Adams tenía un perro llamado Juno y un perro llamado <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "322784_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "322781_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

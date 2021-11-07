@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mesero,mayordomo,blogger,maestro,albañil,escritor,chef,mucama,abogado de divorcios,árbitro,piloto,presentador de programa de juegos,ingeniero,director de escuela,director,vicepresidente,biólogos marinos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "divorcio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Bailarín",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Ocupación con la tasa de divorcios más alta, según el censo de EE.UU. del año 2000.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bailarines,bailar,un bailarín,un bailarin",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "334526_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334523_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "extravagancia de fuegos artificiales,documental sobre prisión,terapeuta,novia,concierto,desfile,estrella fugaz,batalla de rap,apertura de un museo,hipnotizador,partido de fútbol,mago,parque para perros,funeral de un amigo,ópera,película de Leo DiCaprio,ballet,hombre sobre un perro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "liberación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dentista",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, un recluso sueco de 51 años escapó de la cárcel un día antes de su liberación programada para poder ir a ver un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "334244_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

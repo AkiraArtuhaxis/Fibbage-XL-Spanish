@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "grano de arroz,copo de nieve,clip de papel,pan de perrito caliente,confite,hoja de secadora,ibuprofeno,juguete anal,mosca muerta,brizna de pasto,malvavisco,canica,pétalo de rosa,barra de chicle,mechón de pelo,tampón,piña",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "simple",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "copo de maíz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Bill Bennett fue noticia en 2004 cuando pudo vender un/a simple <BLANK> ordinario/a en eBay.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "copo de maiz,cereal de maíz,cereal de maíz",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "349866_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nabos,Carritos de Compra,Bloques de Cemento,Mentones,Palos de Escoba,Lentes de Sol,Sombreros,Zapatos,Radiadores,Tótems,Árboles,Globos,Scooters,Blusones,Bolsos,Marcos de Puerta,Pañuelos,Peluquines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Illinois",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pretzels",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los equipos deportivos de Freeport High School en Illinois llevan el nombre extraño de un objeto inanimado. Los equipos se denominan Los <BLANK> de Freeport.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "338162_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "338159_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}
