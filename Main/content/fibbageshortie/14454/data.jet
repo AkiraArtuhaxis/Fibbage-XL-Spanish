@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "Ciudad Aburrida,Nuevo Las Vegas,Cacatón,Farmville,Hootchie,Dorothy,Meh,Verizon,Ningún Lugar,¡Largo!,Tapioca,Carry On Wayward Son,IBM,Unión de Vagabundos,Tierra Emocionante,Armagedón,Ciudad de Kansas,Target",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "Topeka",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "ToPikachu",
             "n": "CorrectText"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "Por un día en 1998, Topeka, Kansas se renombró a sí mismo <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "321144_0",
             "n": "QuestionAudio"
         }
     ]

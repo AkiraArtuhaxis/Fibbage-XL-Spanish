@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "auto,más allá,ático,otro sofá,basura,lavandería,buzón de correo,bañera,horno,lavaplatos,microondas,inodoro,patio de atrás,gabinete de licores,cama,patio del frente,cobertizo,gabinete de medicina",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "controles remotos",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "heladera",
             "n": "CorrectText"
         },
         {
@@ -42,12 +42,12 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "Según un estudio de Logitech, el 49% de los controles remotos perdidos se encuentran en el sofá, mientras que el 4% se encuentra en el/la <BLANK>.",
             "n": "QuestionText"
         },
         {
             "t": "S",
-            "v": "",
+            "v": "refrigerador",
             "n": "AlternateSpellings"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "318889_0",
             "n": "QuestionAudio"
         }
     ]

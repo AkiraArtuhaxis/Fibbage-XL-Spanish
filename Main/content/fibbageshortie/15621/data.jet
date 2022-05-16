@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "hombre arrastrado,radio de auto,asesinato,par de pantalones cortos,cuchillo,beso francés,ducha,motel,sostén,bebé triste,microondas,perilla,mujer muerta,mirilla,cadáver,teléfono,par de pantimedias,pezón",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "Psicosis",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "descarga del inodoro",
             "n": "CorrectText"
         },
         {
@@ -42,12 +42,12 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "<i>Psicosis<\/i> fue la primera película estadounidense en mostrar un\/a <BLANK>.",
             "n": "QuestionText"
         },
         {
             "t": "S",
-            "v": "",
+            "v": "inodoro descargándose,inodoro descargandose,inodoro tirando de la cadena",
             "n": "AlternateSpellings"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "345600_0",
             "n": "QuestionAudio"
         }
     ]

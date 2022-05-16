@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "piel de rana,arena,heces,queso,dientes,botellas de cerveza,piel de perro,calcetines viejos,uñas,basura,aluminio,cintas VHS,plumas,clips de papel,oro,melones,barbas,espuma de poliestireno",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "solar",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "cabello humano",
             "n": "CorrectText"
         },
         {
@@ -42,12 +42,12 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "Un estudiante de ciencias en Nepal ha creado un panel solar innovador que es mucho más económico de fabricar que un panel solar tradicional, porque está hecho con <BLANK>.",
             "n": "QuestionText"
         },
         {
             "t": "S",
-            "v": "",
+            "v": "cabello,cabello de humano,un cabello de humano,cabellos humanos,cabellos",
             "n": "AlternateSpellings"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "356095_0",
             "n": "QuestionAudio"
         }
     ]

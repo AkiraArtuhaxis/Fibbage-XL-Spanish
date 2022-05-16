@@ -12,7 +12,7 @@
         },
         {
             "t": "B",
-            "v": "false",
+            "v": "true",
             "n": "HasCorrectAudio"
         },
         {
@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "Gran Madera,Lamehueso,Woodcock,Tata,Vaginalmohada,Bosom,Nunt,Tetarratón,Castor,Gran Viento,Chub,Chupón,Colgón,la Humedad,Vírgenes,Grundle,Los Agujeros de Gloria,Bulger",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "sucio",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "Gloria en la Mañana",
             "n": "CorrectText"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "El Ayuntamiento de Lehi de Utah aprobó una solicitud para cambiar el nombre de Camino de <BLANK> porque sonaba un poco sucio.",
             "n": "QuestionText"
         },
         {
@@ -56,11 +56,12 @@
         },
         {
             "t": "A",
+            "v": "323711_0f",
             "n": "CorrectAudio"
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "323708_0",
             "n": "QuestionAudio"
         }
     ]

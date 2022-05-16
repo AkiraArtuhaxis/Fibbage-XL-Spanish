@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "hacer imitaciones,tener hipo,hacer stripping,comer velas,aplaudir,decir “teta”,cortar su cabello,besar,cantar,reir,pintar,dormir,azotar vacas,tirarse pedos,ladrar,jugar golf,hacer malabares,llorar",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "Francia",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "bailar",
             "n": "CorrectText"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "En 1518, cientos de personas en Estrasburgo se vieron afectadas por una extraña condición que les impidió dejar de <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "350459_0",
             "n": "QuestionAudio"
         }
     ]

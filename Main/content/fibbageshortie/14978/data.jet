@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "medio comidos,tocados por personas famosas,vomitados,estirados,teñidos de azul,de comerciales,de revistas,pintados,aplastados,puestos en botes de basura,disecados,rociados con polvo de oro,podridos,crecidos en la Antártida,identificados como radioactivos,congelados,parte de una película,puestos bajo un trasero",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "comida",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "quemados",
             "n": "CorrectText"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "Hay un museo de novedades en Arlington, Massachusetts, que solo recolecta alimentos que han sido <BLANK>.",
             "n": "QuestionText"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "331746_0",
             "n": "QuestionAudio"
         }
     ]

@@ -22,17 +22,17 @@
         },
         {
             "t": "S",
-            "v": "Bebida de Duendecito,Ñam Ñam,Jugo de Niño,Polvitoz,Bebida Coloreada,Gusto de Soda,Besitos,Té Rico,Elixir de Dulce,Bebida de Payaso,Tragadas,Bebida Rayito de Sol Feliz,Bebida Divertida,Delicioso,Sabor Divertido,Ladrido Dulce,Arcoiris Motorizado,Alivio Refrescante",
+            "v": "bailar,dar direcciones erróneas,magia,cantar,escuchar,tomar una siesta,luchar,olvidarse,tener sexo,perdonar,cucharear,pilates,tragarse espadas,hacer risotto,pensar,manos de jazz,golpear un mapache,un álbum de recortes",
             "n": "Suggestions"
         },
         {
             "t": "S",
-            "v": "Kool-Aid",
+            "v": "mago",
             "n": "Category"
         },
         {
             "t": "S",
-            "v": "Golpe de frutas",
+            "v": "llorar",
             "n": "CorrectText"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de marca (traducido) original de Kool-Aid.",
+            "v": "En su propio sitio web, el mago David Blaine escribió una vez: “El acto más valiente que puede hacer un hombre es <BLANK>”.",
             "n": "QuestionText"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "t": "A",
-            "v": "334451_1",
+            "v": "321689_1",
             "n": "QuestionAudio"
         }
     ]
